@@ -160,6 +160,7 @@ btconchain,pricing,pricing_onchainoriginals,checkonchain.com/btconchain/pricing/
 btconchain,pricing,pricing_price_fibs_2019,checkonchain.com/btconchain/pricing/pricing_price_fibs_2019/pricing_price_fibs_2019_light.html,Bitcoin Price & Fibbonacci Retracements (2019)
 btconchain,pricing,histogram_mvrv_zscore_bullbear_MVRV_STH,checkonchain.com/btconchain/pricing/histogram_mvrv_zscore_bullbear_MVRV_STH/histogram_mvrv_zscore_bullbear_MVRV_STH_light.html,MVRV_STH Zscore Bull and Bear Distributions
 btconchain,pricing,pricing_mvrv,checkonchain.com/btconchain/pricing/pricing_mvrv/pricing_mvrv_light.html,The MVRV Ratio
+btconchain,pricing,price,checkonchain.com/btconchain/pricing/price/price_light.html,Bitcoin Price
 btconchain,pricing,pricing_mvrv_aviv_zscore,checkonchain.com/btconchain/pricing/pricing_mvrv_aviv_zscore/pricing_mvrv_aviv_zscore_light.html,The AVIV Ratio Z-Score
 btconchain,pricing,pricing_mvrv_all_zscore,checkonchain.com/btconchain/pricing/pricing_mvrv_all_zscore/pricing_mvrv_all_zscore_light.html,The MVRV Ratio Z-Score
 btconchain,mining,mining_hashribbons,checkonchain.com/btconchain/mining/mining_hashribbons/mining_hashribbons_light.html,Hash Ribbons
