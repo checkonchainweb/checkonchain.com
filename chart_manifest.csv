@@ -148,6 +148,7 @@ btconchain,pricing,pricing_realisedcap,checkonchain.com/btconchain/pricing/prici
 btconchain,pricing,pricing_price_fibs_2022_bear,checkonchain.com/btconchain/pricing/pricing_price_fibs_2022_bear/pricing_price_fibs_2022_bear_light.html,Bitcoin Price & Fibbonacci Retracements (2022 Bear)
 btconchain,pricing,pricing_mvrv_sth,checkonchain.com/btconchain/pricing/pricing_mvrv_sth/pricing_mvrv_sth_light.html,Short-Term Holder MVRV Ratio
 btconchain,pricing,pricing_price_fibs_2021_22,checkonchain.com/btconchain/pricing/pricing_price_fibs_2021_22/pricing_price_fibs_2021_22_light.html,Bitcoin Price & Fibbonacci Retracements (2021-22 Cycle)
+btconchain,pricing,price_infadj,checkonchain.com/btconchain/pricing/price_infadj/price_infadj_light.html,Bitcoin Inflation Adjusted Price (Ref 2020-01-01)
 btconchain,pricing,pricing_mvrv_aviv_0,checkonchain.com/btconchain/pricing/pricing_mvrv_aviv_0/pricing_mvrv_aviv_0_light.html,True Market Mean and AVIV Ratio Indicator
 btconchain,pricing,pricing_price_fibs_2023_24,checkonchain.com/btconchain/pricing/pricing_price_fibs_2023_24/pricing_price_fibs_2023_24_light.html,Bitcoin Price & Fibbonacci Retracements (2023-24)
 btconchain,pricing,histogram_aviv,checkonchain.com/btconchain/pricing/histogram_aviv/histogram_aviv_light.html,AVIV Distribution
