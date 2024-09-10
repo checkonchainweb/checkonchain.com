@@ -139,6 +139,7 @@ btconchain,pricing,pricing_costbasisoriginals_oscillators,checkonchain.com/btcon
 btconchain,pricing,pricing_mrktreal_ath,checkonchain.com/btconchain/pricing/pricing_mrktreal_ath/pricing_mrktreal_ath_light.html,Bitcoin Market and Realised Cap
 btconchain,pricing,histogram_mvrv_zscore_MVRV_STH_zscore,checkonchain.com/btconchain/pricing/histogram_mvrv_zscore_MVRV_STH_zscore/histogram_mvrv_zscore_MVRV_STH_zscore_light.html,MVRV_STH_zscore Z-Score Distributions
 btconchain,pricing,pricing_yearlycostbasis,checkonchain.com/btconchain/pricing/pricing_yearlycostbasis/pricing_yearlycostbasis_light.html,Yearly Volume Weighted Cost Basis
+btconchain,pricing,drawdown_infadj,checkonchain.com/btconchain/pricing/drawdown_infadj/drawdown_infadj_light.html,Bitcoin Inflation Adjusted Drawdown (2020 Dollars)
 btconchain,pricing,pricing_nvtprice,checkonchain.com/btconchain/pricing/pricing_nvtprice/pricing_nvtprice_light.html,NVT Price Models
 btconchain,pricing,pricing_costbasisoriginals,checkonchain.com/btconchain/pricing/pricing_costbasisoriginals/pricing_costbasisoriginals_light.html,Key Cost Basis Models Price Models
 btconchain,pricing,pricing_mvrv_sth_zscore,checkonchain.com/btconchain/pricing/pricing_mvrv_sth_zscore/pricing_mvrv_sth_zscore_light.html,Short-Term Holder MVRV Z-Score
@@ -148,7 +149,7 @@ btconchain,pricing,pricing_realisedcap,checkonchain.com/btconchain/pricing/prici
 btconchain,pricing,pricing_price_fibs_2022_bear,checkonchain.com/btconchain/pricing/pricing_price_fibs_2022_bear/pricing_price_fibs_2022_bear_light.html,Bitcoin Price & Fibbonacci Retracements (2022 Bear)
 btconchain,pricing,pricing_mvrv_sth,checkonchain.com/btconchain/pricing/pricing_mvrv_sth/pricing_mvrv_sth_light.html,Short-Term Holder MVRV Ratio
 btconchain,pricing,pricing_price_fibs_2021_22,checkonchain.com/btconchain/pricing/pricing_price_fibs_2021_22/pricing_price_fibs_2021_22_light.html,Bitcoin Price & Fibbonacci Retracements (2021-22 Cycle)
-btconchain,pricing,price_infadj,checkonchain.com/btconchain/pricing/price_infadj/price_infadj_light.html,Bitcoin Inflation Adjusted Price (Ref 2020-01-01)
+btconchain,pricing,price_infadj,checkonchain.com/btconchain/pricing/price_infadj/price_infadj_light.html,Bitcoin Inflation Adjusted Price (2020 Dollars)
 btconchain,pricing,pricing_mvrv_aviv_0,checkonchain.com/btconchain/pricing/pricing_mvrv_aviv_0/pricing_mvrv_aviv_0_light.html,True Market Mean and AVIV Ratio Indicator
 btconchain,pricing,pricing_price_fibs_2023_24,checkonchain.com/btconchain/pricing/pricing_price_fibs_2023_24/pricing_price_fibs_2023_24_light.html,Bitcoin Price & Fibbonacci Retracements (2023-24)
 btconchain,pricing,histogram_aviv,checkonchain.com/btconchain/pricing/histogram_aviv/histogram_aviv_light.html,AVIV Distribution
