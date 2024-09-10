@@ -125,15 +125,18 @@ btconchain,pricing,mvrv_zscore_ribbon,checkonchain.com/btconchain/pricing/mvrv_z
 btconchain,pricing,histogram_mvrv,checkonchain.com/btconchain/pricing/histogram_mvrv/histogram_mvrv_light.html,MVRV Distributions
 btconchain,pricing,histogram_mayermultiple,checkonchain.com/btconchain/pricing/histogram_mayermultiple/histogram_mayermultiple_light.html,Mayer Multiple Distribution
 btconchain,pricing,pricing_mvrv_aviv_1,checkonchain.com/btconchain/pricing/pricing_mvrv_aviv_1/pricing_mvrv_aviv_1_light.html,True Market Mean and AVIV Ratio Indicator
+btconchain,pricing,price_infadj_1,checkonchain.com/btconchain/pricing/price_infadj_1/price_infadj_1_light.html,Bitcoin Inflation Adjusted Price (2010 Dollars)
 btconchain,pricing,histogram_mvrv_zscore_MVRV_zscore,checkonchain.com/btconchain/pricing/histogram_mvrv_zscore_MVRV_zscore/histogram_mvrv_zscore_MVRV_zscore_light.html,MVRV_zscore Z-Score Distributions
 btconchain,pricing,pricing_price_fibs_today,checkonchain.com/btconchain/pricing/pricing_price_fibs_today/pricing_price_fibs_today_light.html,Bitcoin Price & Fibbonacci Retracements (Today)
 btconchain,pricing,histogram_aviv_zscore,checkonchain.com/btconchain/pricing/histogram_aviv_zscore/histogram_aviv_zscore_light.html,AVIV Z-Score Distribution
 btconchain,pricing,pricing_mvrv_all,checkonchain.com/btconchain/pricing/pricing_mvrv_all/pricing_mvrv_all_light.html,The MVRV Ratio
 btconchain,pricing,histogram_nupl,checkonchain.com/btconchain/pricing/histogram_nupl/histogram_nupl_light.html,NUPL Distributions
+btconchain,pricing,price_infadj_2,checkonchain.com/btconchain/pricing/price_infadj_2/price_infadj_2_light.html,Bitcoin Inflation Adjusted Price (2020 Dollars)
 btconchain,pricing,histogram_mvrv_zscore_bullbear_Mayer,checkonchain.com/btconchain/pricing/histogram_mvrv_zscore_bullbear_Mayer/histogram_mvrv_zscore_bullbear_Mayer_light.html,Mayer Zscore Bull and Bear Distributions
 btconchain,pricing,pricing_mayermultiple,checkonchain.com/btconchain/pricing/pricing_mayermultiple/pricing_mayermultiple_light.html,The Mayer Multiple
 btconchain,pricing,pricing_picycleindicator,checkonchain.com/btconchain/pricing/pricing_picycleindicator/pricing_picycleindicator_light.html,Pi Cycle Top Indicator
 btconchain,pricing,pricing_mvrv_lth,checkonchain.com/btconchain/pricing/pricing_mvrv_lth/pricing_mvrv_lth_light.html,Long-Term Holder MVRV Ratio
+btconchain,pricing,price_infadj_0,checkonchain.com/btconchain/pricing/price_infadj_0/price_infadj_0_light.html,Bitcoin Inflation Adjusted Price (Todays Dollars)
 btconchain,pricing,pricing_euphoriazone,checkonchain.com/btconchain/pricing/pricing_euphoriazone/pricing_euphoriazone_light.html,The Bitcoin Euphoria Zone
 btconchain,pricing,pricing_costbasisoriginals_oscillators,checkonchain.com/btconchain/pricing/pricing_costbasisoriginals_oscillators/pricing_costbasisoriginals_oscillators_light.html,Key Cost Basis Models Price Models
 btconchain,pricing,pricing_mrktreal_ath,checkonchain.com/btconchain/pricing/pricing_mrktreal_ath/pricing_mrktreal_ath_light.html,Bitcoin Market and Realised Cap
@@ -149,7 +152,6 @@ btconchain,pricing,pricing_realisedcap,checkonchain.com/btconchain/pricing/prici
 btconchain,pricing,pricing_price_fibs_2022_bear,checkonchain.com/btconchain/pricing/pricing_price_fibs_2022_bear/pricing_price_fibs_2022_bear_light.html,Bitcoin Price & Fibbonacci Retracements (2022 Bear)
 btconchain,pricing,pricing_mvrv_sth,checkonchain.com/btconchain/pricing/pricing_mvrv_sth/pricing_mvrv_sth_light.html,Short-Term Holder MVRV Ratio
 btconchain,pricing,pricing_price_fibs_2021_22,checkonchain.com/btconchain/pricing/pricing_price_fibs_2021_22/pricing_price_fibs_2021_22_light.html,Bitcoin Price & Fibbonacci Retracements (2021-22 Cycle)
-btconchain,pricing,price_infadj,checkonchain.com/btconchain/pricing/price_infadj/price_infadj_light.html,Bitcoin Inflation Adjusted Price (2020 Dollars)
 btconchain,pricing,pricing_mvrv_aviv_0,checkonchain.com/btconchain/pricing/pricing_mvrv_aviv_0/pricing_mvrv_aviv_0_light.html,True Market Mean and AVIV Ratio Indicator
 btconchain,pricing,pricing_price_fibs_2023_24,checkonchain.com/btconchain/pricing/pricing_price_fibs_2023_24/pricing_price_fibs_2023_24_light.html,Bitcoin Price & Fibbonacci Retracements (2023-24)
 btconchain,pricing,histogram_aviv,checkonchain.com/btconchain/pricing/histogram_aviv/histogram_aviv_light.html,AVIV Distribution
