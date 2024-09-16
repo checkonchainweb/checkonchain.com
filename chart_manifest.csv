@@ -428,6 +428,7 @@ btconchain,technical,technical_dailypriceperformance_1y_0,checkonchain.com/btcon
 btconchain,technical,technical_dailypriceperformance_1w_0,checkonchain.com/btconchain/technical/technical_dailypriceperformance_1w_0/technical_dailypriceperformance_1w_0_light.html,Bitcoin Weekly Price Performance
 btconchain,technical,histogram_priceperformance_bullbear_1,checkonchain.com/btconchain/technical/histogram_priceperformance_bullbear_1/histogram_priceperformance_bullbear_1_light.html,Price Performance (1-day) Bull and Bear Distributions
 btconchain,technical,technical_epochcycle_price_-1,checkonchain.com/btconchain/technical/technical_epochcycle_price_-1/technical_epochcycle_price_-1_light.html,Bitcoin Index Performance Since Cycle Low
+btconchain,technical,price_sum_updowndays,checkonchain.com/btconchain/technical/price_sum_updowndays/price_sum_updowndays_light.html,Price 90-day Sum of Up/Down days
 btconchain,technical,technical_quarterlymonthlyweeklyroi,checkonchain.com/btconchain/technical/technical_quarterlymonthlyweeklyroi/technical_quarterlymonthlyweeklyroi_light.html,"Quarterly, Monthly, and Weekly Returns"
 btconchain,technical,technical_pricehighlowrange_90,checkonchain.com/btconchain/technical/technical_pricehighlowrange_90/technical_pricehighlowrange_90_light.html,"90-day Price High, Low and Range"
 btconchain,technical,technical_rsi14_1m,checkonchain.com/btconchain/technical/technical_rsi14_1m/technical_rsi14_1m_light.html,Relative Strength Index (RSI-14)
