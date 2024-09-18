@@ -1,1 +1,1 @@
-<b>Bitcoin NUPL (Net Unrealised Profit/Loss)</b>
+<b>Net Unrealised Profit/Loss (NUPL)</b>
