@@ -1,1 +1,1 @@
-<b>Bitcoin Circulating Supply</b>
+<b>Circulating Supply</b>

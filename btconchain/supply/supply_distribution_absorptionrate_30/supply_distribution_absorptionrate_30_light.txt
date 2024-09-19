@@ -1,1 +1,1 @@
-<b>Bitcoin Entity Absorption Rate (30-day)</b>
+<b>Entity Absorption Rate (30-day)</b>

@@ -1,1 +1,1 @@
-<b>Relative Bitcoin LTH and STH Supply in Profit/Loss</b>
+<b>Relative Supply Held in Profit/Loss by Cohort</b>

@@ -1,1 +1,1 @@
-<b>Bitcoin LTH Binary Spending Indicator</b>
+<b>Long-Term Holder Binary Spending Indicator</b>
