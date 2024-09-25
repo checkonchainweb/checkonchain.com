@@ -1,1 +1,0 @@
-<b>SPX Consecutive Days Without a Drawdown (7-day window)</b>

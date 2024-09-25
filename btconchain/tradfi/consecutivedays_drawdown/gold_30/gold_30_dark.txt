@@ -1,1 +1,0 @@
-<b>GOLD Consecutive Days Without a Drawdown (30-day window)</b>
