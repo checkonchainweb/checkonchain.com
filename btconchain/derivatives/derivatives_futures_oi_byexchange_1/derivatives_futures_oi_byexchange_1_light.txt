@@ -1,1 +1,1 @@
-<b>Bitcoin Futures Open Interest [USD]</b>
+<b>Bitcoin Futures Open Interest [BTC]</b>
