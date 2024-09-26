@@ -1,1 +1,1 @@
-<b>Cointime Economics: Sum of Coinblocks Destroyed</b>
+<b>Sum of Coinblocks Destroyed</b>

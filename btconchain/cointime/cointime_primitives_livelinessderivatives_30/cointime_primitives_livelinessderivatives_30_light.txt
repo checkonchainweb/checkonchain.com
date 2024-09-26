@@ -1,1 +1,1 @@
-<b>Cointime Economics: Concurrent Liveliness and Liveliness Incremental Change</b>
+<b>Concurrent Liveliness and Liveliness Incremental Change</b>
