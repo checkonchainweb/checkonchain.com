@@ -1,1 +1,1 @@
-<b>SOPR_STH Z-Score</b>
+<b>STH-SOPR Z-Score</b>

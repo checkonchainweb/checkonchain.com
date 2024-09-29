@@ -1,1 +1,1 @@
-<b>SOPR_LTH Z-Score</b>
+<b>LTH-SOPR Z-Score</b>
