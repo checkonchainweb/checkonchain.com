@@ -6,61 +6,48 @@ btconchain,confluence,signals_sth_mvrvvssopr_scatter,checkonchain.com/btconchain
 btconchain,confluence,confluence_cycleextremeoscillators_0,checkonchain.com/btconchain/confluence/confluence_cycleextremeoscillators_0/confluence_cycleextremeoscillators_0_light.html,Bitcoin Cycle Extreme Oscillators
 btconchain,confluence,signals_table_soprmvrv,checkonchain.com/btconchain/confluence/signals_table_soprmvrv/signals_table_soprmvrv_light.html,Bitcoin MVRV and SOPR Indicator (MinMax Scalar)
 btconchain,confluence,confluence_zscore_boxwhisker_oscillators,checkonchain.com/btconchain/confluence/confluence_zscore_boxwhisker_oscillators/confluence_zscore_boxwhisker_oscillators_light.html,Checkonchain Z-Score Confluence for Bitcoin
-btconchain,supply,supply_distribution_sharkwhalexchange_30,checkonchain.com/btconchain/supply/supply_distribution_sharkwhalexchange_30/supply_distribution_sharkwhalexchange_30_light.html,"Sharks, Whales and Exchanges (>100 BTC) Balance Change (30-day)"
-btconchain,supply,supply_pctsupplyinprofit_all,checkonchain.com/btconchain/supply/supply_pctsupplyinprofit_all/supply_pctsupplyinprofit_all_light.html, Percent Supply in Profit
-btconchain,supply,supply_distribution_sharkwhalexchange_90,checkonchain.com/btconchain/supply/supply_distribution_sharkwhalexchange_90/supply_distribution_sharkwhalexchange_90_light.html,"Sharks, Whales and Exchanges (>100 BTC) Balance Change (90-day)"
-btconchain,supply,supply_lthsth_1,checkonchain.com/btconchain/supply/supply_lthsth_1/supply_lthsth_1_light.html,Long and Short-Term Holder Supply Breakdown
-btconchain,supply,supply_distribution_shrimpcrabfish_30,checkonchain.com/btconchain/supply/supply_distribution_shrimpcrabfish_30/supply_distribution_shrimpcrabfish_30_light.html,Retail Holder (<100 BTC) Balance Change (30-day)
-btconchain,supply,supply_circulating_issuance,checkonchain.com/btconchain/supply/supply_circulating_issuance/supply_circulating_issuance_light.html,Circulating Supply and Issuance
-btconchain,supply,supply_hodlwaves_0,checkonchain.com/btconchain/supply/supply_hodlwaves_0/supply_hodlwaves_0_light.html,HODL Waves
-btconchain,supply,supply_circulating,checkonchain.com/btconchain/supply/supply_circulating/supply_circulating_light.html,Circulating Supply
-btconchain,supply,supply_distribution_fishshark_365,checkonchain.com/btconchain/supply/supply_distribution_fishshark_365/supply_distribution_fishshark_365_light.html,Fish and Sharks (10-1k BTC) Balance Change (365-day)
-btconchain,supply,supply_lthsth_profitloss_0,checkonchain.com/btconchain/supply/supply_lthsth_profitloss_0/supply_lthsth_profitloss_0_light.html, Supply Held in Profit/Loss by Cohort
-btconchain,supply,supply_pctunrealisedprofit_all,checkonchain.com/btconchain/supply/supply_pctunrealisedprofit_all/supply_pctunrealisedprofit_all_light.html, Percent Unrealised Profit
-btconchain,supply,supply_distribution_whalexchange_365,checkonchain.com/btconchain/supply/supply_distribution_whalexchange_365/supply_distribution_whalexchange_365_light.html,Whales and Exchanges (>1k BTC) Balance Change (365-day)
-btconchain,supply,supply_distribution_netposchange_365,checkonchain.com/btconchain/supply/supply_distribution_netposchange_365/supply_distribution_netposchange_365_light.html,Entity Balance Net Position Change (365-day)
-btconchain,supply,supply_lthsth_profitloss_1,checkonchain.com/btconchain/supply/supply_lthsth_profitloss_1/supply_lthsth_profitloss_1_light.html,Relative Supply Held in Profit/Loss by Cohort
-btconchain,supply,supply_breakdown_1,checkonchain.com/btconchain/supply/supply_breakdown_1/supply_breakdown_1_light.html,Supply Breakdown (Relative)
-btconchain,supply,supply_lthnetposchange_0,checkonchain.com/btconchain/supply/supply_lthnetposchange_0/supply_lthnetposchange_0_light.html,Long-Term Holder Supply Net Position Change (30-day)
-btconchain,supply,supply_distribution_absorptionrate_30,checkonchain.com/btconchain/supply/supply_distribution_absorptionrate_30/supply_distribution_absorptionrate_30_light.html,Entity Absorption Rate (30-day)
-btconchain,supply,supply_mature_supply_0,checkonchain.com/btconchain/supply/supply_mature_supply_0/supply_mature_supply_0_light.html,Maturing Supply Older Than 6m
-btconchain,supply,supply_distribution_fishshark_90,checkonchain.com/btconchain/supply/supply_distribution_fishshark_90/supply_distribution_fishshark_90_light.html,Fish and Sharks (10-1k BTC) Balance Change (90-day)
-btconchain,supply,supply_lthnetposchange_1,checkonchain.com/btconchain/supply/supply_lthnetposchange_1/supply_lthnetposchange_1_light.html,Long-Term Holder Supply Net Position Change (30-day)
-btconchain,supply,supply_distribution_fishshark_30,checkonchain.com/btconchain/supply/supply_distribution_fishshark_30/supply_distribution_fishshark_30_light.html,Fish and Sharks (10-1k BTC) Balance Change (30-day)
-btconchain,supply,supply_pctsupplyinprofit_lth,checkonchain.com/btconchain/supply/supply_pctsupplyinprofit_lth/supply_pctsupplyinprofit_lth_light.html,Long-Term Holder Percent Supply in Profit
-btconchain,supply,supply_distribution_shrimpcrabfish_90,checkonchain.com/btconchain/supply/supply_distribution_shrimpcrabfish_90/supply_distribution_shrimpcrabfish_90_light.html,Retail Holder (<100 BTC) Balance Change (90-day)
-btconchain,supply,supply_sthsupplyinloss,checkonchain.com/btconchain/supply/supply_sthsupplyinloss/supply_sthsupplyinloss_light.html,Top Heavy Markets: Short-Term Holder Supply in Loss
-btconchain,supply,supply_lthsth_0,checkonchain.com/btconchain/supply/supply_lthsth_0/supply_lthsth_0_light.html,Long and Short-Term Holder Supply Breakdown
-btconchain,supply,supply_distributionwaves_0,checkonchain.com/btconchain/supply/supply_distributionwaves_0/supply_distributionwaves_0_light.html,Relative Supply Held Bands
-btconchain,supply,supply_sthsupplyinloss_1,checkonchain.com/btconchain/supply/supply_sthsupplyinloss_1/supply_sthsupplyinloss_1_light.html,Top Heavy Markets: Relative Short-Term Holder Supply in Loss (%)
-btconchain,supply,supply_older6m_1,checkonchain.com/btconchain/supply/supply_older6m_1/supply_older6m_1_light.html,Supply Older Than 6-months
-btconchain,supply,supply_hodlwaves_1,checkonchain.com/btconchain/supply/supply_hodlwaves_1/supply_hodlwaves_1_light.html,HODL Waves
-btconchain,supply,supply_breakdown_0,checkonchain.com/btconchain/supply/supply_breakdown_0/supply_breakdown_0_light.html,Supply Breakdown [BTC]
-btconchain,supply,supply_distribution_shrimpcrabfish_365,checkonchain.com/btconchain/supply/supply_distribution_shrimpcrabfish_365/supply_distribution_shrimpcrabfish_365_light.html,Retail Holder (<100 BTC) Balance Change (365-day)
-btconchain,supply,supply_lthunrealisedloss,checkonchain.com/btconchain/supply/supply_lthunrealisedloss/supply_lthunrealisedloss_light.html,Long-Term Holder Wealth Held in Loss
-btconchain,supply,supply_revived_supply_0,checkonchain.com/btconchain/supply/supply_revived_supply_0/supply_revived_supply_0_light.html,Revived Supply Older Than 6m
-btconchain,supply,supply_distribution_whalexchange_30,checkonchain.com/btconchain/supply/supply_distribution_whalexchange_30/supply_distribution_whalexchange_30_light.html,Whales and Exchanges (>1k BTC) Balance Change (30-day)
-btconchain,supply,supply_profitloss,checkonchain.com/btconchain/supply/supply_profitloss/supply_profitloss_light.html,Supply in Profit or Loss
-btconchain,supply,supply_distribution_netposchange_30,checkonchain.com/btconchain/supply/supply_distribution_netposchange_30/supply_distribution_netposchange_30_light.html,Entity Balance Net Position Change (30-day)
-btconchain,supply,supply_walletwaves,checkonchain.com/btconchain/supply/supply_walletwaves/supply_walletwaves_light.html,Relative Address Wealth Bands
-btconchain,supply,supply_binaryspendingindicator,checkonchain.com/btconchain/supply/supply_binaryspendingindicator/supply_binaryspendingindicator_light.html,Long-Term Holder Binary Spending Indicator
-btconchain,supply,supply_distributionwaves_1,checkonchain.com/btconchain/supply/supply_distributionwaves_1/supply_distributionwaves_1_light.html,Relative Supply Held Bands
-btconchain,supply,supply_supplyinloss,checkonchain.com/btconchain/supply/supply_supplyinloss/supply_supplyinloss_light.html,Supply in Loss
-btconchain,supply,supply_distribution_sharkwhalexchange_365,checkonchain.com/btconchain/supply/supply_distribution_sharkwhalexchange_365/supply_distribution_sharkwhalexchange_365_light.html,"Sharks, Whales and Exchanges (>100 BTC) Balance Change (365-day)"
-btconchain,supply,supply_drawdowns_bull_pctsupplyinprofit,checkonchain.com/btconchain/supply/supply_drawdowns_bull_pctsupplyinprofit/supply_drawdowns_bull_pctsupplyinprofit_light.html,Cycle Percent Supply in Profit
-btconchain,supply,supply_unrealisedloss,checkonchain.com/btconchain/supply/supply_unrealisedloss/supply_unrealisedloss_light.html,Total Wealth Held in Loss
-btconchain,supply,supply_revived_supply_1,checkonchain.com/btconchain/supply/supply_revived_supply_1/supply_revived_supply_1_light.html,Revived Supply Older Than 6m
-btconchain,supply,supply_circulating_volume,checkonchain.com/btconchain/supply/supply_circulating_volume/supply_circulating_volume_light.html,Circulating Supply vs Transfer Volume
-btconchain,supply,supply_pctunrealisedprofit_lth,checkonchain.com/btconchain/supply/supply_pctunrealisedprofit_lth/supply_pctunrealisedprofit_lth_light.html,Long-Term Holder Percent Unrealised Profit
-btconchain,supply,supply_lthsupplyinloss,checkonchain.com/btconchain/supply/supply_lthsupplyinloss/supply_lthsupplyinloss_light.html,Top Heavy Markets: Percent Long-Term Holder Supply in Loss
-btconchain,supply,supply_rhodl,checkonchain.com/btconchain/supply/supply_rhodl/supply_rhodl_light.html,RHODL Ratio
-btconchain,supply,supply_distribution_whalexchange_90,checkonchain.com/btconchain/supply/supply_distribution_whalexchange_90/supply_distribution_whalexchange_90_light.html,Whales and Exchanges (>1k BTC) Balance Change (90-day)
-btconchain,supply,supply_pctsupplyinprofit_sth,checkonchain.com/btconchain/supply/supply_pctsupplyinprofit_sth/supply_pctsupplyinprofit_sth_light.html,Short-Term Holder Percent Supply in Profit
-btconchain,supply,supply_mature_supply_1,checkonchain.com/btconchain/supply/supply_mature_supply_1/supply_mature_supply_1_light.html,Maturing Supply Older Than 6m
-btconchain,supply,supply_distribution_absorptionrate_365,checkonchain.com/btconchain/supply/supply_distribution_absorptionrate_365/supply_distribution_absorptionrate_365_light.html,Entity Absorption Rate (365-day)
-btconchain,supply,supply_sthunrealisedloss,checkonchain.com/btconchain/supply/supply_sthunrealisedloss/supply_sthunrealisedloss_light.html,Short-Term Holder Wealth Held in Loss
-btconchain,supply,supply_pctunrealisedprofit_sth,checkonchain.com/btconchain/supply/supply_pctunrealisedprofit_sth/supply_pctunrealisedprofit_sth_light.html,Short-Term Holder Percent Unrealised Profit
-btconchain,supply,supply_older6m_0,checkonchain.com/btconchain/supply/supply_older6m_0/supply_older6m_0_light.html,Supply Older Than 6-months
+btconchain,supply,distribution_absorptionrate_365,checkonchain.com/btconchain/supply/distribution_absorptionrate_365/distribution_absorptionrate_365_light.html,Entity Absorption Rate (365-day)
+btconchain,supply,breakdown_age_1,checkonchain.com/btconchain/supply/breakdown_age_1/breakdown_age_1_light.html,Supply Breakdown (Relative)
+btconchain,supply,mature_supply_0,checkonchain.com/btconchain/supply/mature_supply_0/mature_supply_0_light.html,Maturing Supply Older Than 6m
+btconchain,supply,distribution_sharkwhalexchange_365,checkonchain.com/btconchain/supply/distribution_sharkwhalexchange_365/distribution_sharkwhalexchange_365_light.html,"Sharks, Whales and Exchanges (>100 BTC) Balance Change (365-day)"
+btconchain,supply,distribution_whalexchange_30,checkonchain.com/btconchain/supply/distribution_whalexchange_30/distribution_whalexchange_30_light.html,Whales and Exchanges (>1k BTC) Balance Change (30-day)
+btconchain,supply,circulating_issuance,checkonchain.com/btconchain/supply/circulating_issuance/circulating_issuance_light.html,Circulating Supply and Issuance
+btconchain,supply,distribution_fishshark_365,checkonchain.com/btconchain/supply/distribution_fishshark_365/distribution_fishshark_365_light.html,Fish and Sharks (10-1k BTC) Balance Change (365-day)
+btconchain,supply,revived_supply_1,checkonchain.com/btconchain/supply/revived_supply_1/revived_supply_1_light.html,Revived Supply Older Than 6m
+btconchain,supply,distribution_shrimpcrabfish_30,checkonchain.com/btconchain/supply/distribution_shrimpcrabfish_30/distribution_shrimpcrabfish_30_light.html,Retail Holder (<100 BTC) Balance Change (30-day)
+btconchain,supply,distribution_netposchange_365,checkonchain.com/btconchain/supply/distribution_netposchange_365/distribution_netposchange_365_light.html,Entity Balance Net Position Change (365-day)
+btconchain,supply,distribution_sharkwhalexchange_90,checkonchain.com/btconchain/supply/distribution_sharkwhalexchange_90/distribution_sharkwhalexchange_90_light.html,"Sharks, Whales and Exchanges (>100 BTC) Balance Change (90-day)"
+btconchain,supply,hodl_waves_1,checkonchain.com/btconchain/supply/hodl_waves_1/hodl_waves_1_light.html,HODL Waves
+btconchain,supply,breakdown_lthsth_1,checkonchain.com/btconchain/supply/breakdown_lthsth_1/breakdown_lthsth_1_light.html,Long and Short-Term Holder Supply Breakdown
+btconchain,supply,address_waves,checkonchain.com/btconchain/supply/address_waves/address_waves_light.html,Address Distribution Bands
+btconchain,supply,revived_supply_0,checkonchain.com/btconchain/supply/revived_supply_0/revived_supply_0_light.html,Revived Supply Older Than 6m
+btconchain,supply,distribution_waves_0,checkonchain.com/btconchain/supply/distribution_waves_0/distribution_waves_0_light.html,Supply Held by Wallet Size
+btconchain,supply,distribution_fishshark_30,checkonchain.com/btconchain/supply/distribution_fishshark_30/distribution_fishshark_30_light.html,Fish and Sharks (10-1k BTC) Balance Change (30-day)
+btconchain,supply,breakdown_lthsth_0,checkonchain.com/btconchain/supply/breakdown_lthsth_0/breakdown_lthsth_0_light.html,Long and Short-Term Holder Supply Breakdown
+btconchain,supply,distribution_netposchange_30,checkonchain.com/btconchain/supply/distribution_netposchange_30/distribution_netposchange_30_light.html,Entity Balance Net Position Change (30-day)
+btconchain,supply,distribution_sharkwhalexchange_30,checkonchain.com/btconchain/supply/distribution_sharkwhalexchange_30/distribution_sharkwhalexchange_30_light.html,"Sharks, Whales and Exchanges (>100 BTC) Balance Change (30-day)"
+btconchain,supply,older6m_1,checkonchain.com/btconchain/supply/older6m_1/older6m_1_light.html,Supply Older Than 6-months
+btconchain,supply,breakdown_lthsth_pnl_1,checkonchain.com/btconchain/supply/breakdown_lthsth_pnl_1/breakdown_lthsth_pnl_1_light.html,Relative Supply Held in Profit/Loss by Cohort
+btconchain,supply,distribution_absorptionrate_30,checkonchain.com/btconchain/supply/distribution_absorptionrate_30/distribution_absorptionrate_30_light.html,Entity Absorption Rate (30-day)
+btconchain,supply,lthnetposchange_1,checkonchain.com/btconchain/supply/lthnetposchange_1/lthnetposchange_1_light.html,Long-Term Holder Supply Net Position Change (30-day)
+btconchain,supply,binaryspending_indicator,checkonchain.com/btconchain/supply/binaryspending_indicator/binaryspending_indicator_light.html,Long-Term Holder Binary Spending Indicator
+btconchain,supply,distribution_shrimpcrabfish_365,checkonchain.com/btconchain/supply/distribution_shrimpcrabfish_365/distribution_shrimpcrabfish_365_light.html,Retail Holder (<100 BTC) Balance Change (365-day)
+btconchain,supply,circulating_volume,checkonchain.com/btconchain/supply/circulating_volume/circulating_volume_light.html,Circulating Supply vs Transfer Volume
+btconchain,supply,distribution_fishshark_90,checkonchain.com/btconchain/supply/distribution_fishshark_90/distribution_fishshark_90_light.html,Fish and Sharks (10-1k BTC) Balance Change (90-day)
+btconchain,supply,breakdown_age_0,checkonchain.com/btconchain/supply/breakdown_age_0/breakdown_age_0_light.html,Supply Breakdown [BTC]
+btconchain,supply,distribution_waves_1,checkonchain.com/btconchain/supply/distribution_waves_1/distribution_waves_1_light.html,Supply Held by Wallet Size
+btconchain,supply,circulating,checkonchain.com/btconchain/supply/circulating/circulating_light.html,Circulating Supply
+btconchain,supply,breakdown_lthsth_pnl_0,checkonchain.com/btconchain/supply/breakdown_lthsth_pnl_0/breakdown_lthsth_pnl_0_light.html, Supply Held in Profit/Loss by Cohort
+btconchain,supply,distribution_whalexchange_90,checkonchain.com/btconchain/supply/distribution_whalexchange_90/distribution_whalexchange_90_light.html,Whales and Exchanges (>1k BTC) Balance Change (90-day)
+btconchain,supply,hodl_waves_0,checkonchain.com/btconchain/supply/hodl_waves_0/hodl_waves_0_light.html,HODL Waves
+btconchain,supply,distribution_whalexchange_365,checkonchain.com/btconchain/supply/distribution_whalexchange_365/distribution_whalexchange_365_light.html,Whales and Exchanges (>1k BTC) Balance Change (365-day)
+btconchain,supply,lthnetposchange_0,checkonchain.com/btconchain/supply/lthnetposchange_0/lthnetposchange_0_light.html,Long-Term Holder Supply Net Position Change (30-day)
+btconchain,supply,older6m_0,checkonchain.com/btconchain/supply/older6m_0/older6m_0_light.html,Supply Older Than 6-months
+btconchain,supply,circulating_issuance_eth,checkonchain.com/btconchain/supply/circulating_issuance_eth/circulating_issuance_eth_light.html,Ethereum Circulating Supply and Issuance
+btconchain,supply,breakdown_pnl,checkonchain.com/btconchain/supply/breakdown_pnl/breakdown_pnl_light.html,Supply in Profit or Loss
+btconchain,supply,distribution_shrimpcrabfish_90,checkonchain.com/btconchain/supply/distribution_shrimpcrabfish_90/distribution_shrimpcrabfish_90_light.html,Retail Holder (<100 BTC) Balance Change (90-day)
+btconchain,supply,mature_supply_1,checkonchain.com/btconchain/supply/mature_supply_1/mature_supply_1_light.html,Maturing Supply Older Than 6m
+btconchain,supply,rhodl,checkonchain.com/btconchain/supply/rhodl/rhodl_light.html,RHODL Ratio
 btconchain,masterclass,masterclass_sellsiderisk_components_0,checkonchain.com/btconchain/masterclass/masterclass_sellsiderisk_components_0/masterclass_sellsiderisk_components_0_light.html,Sell-side Risk Ratio Components
 btconchain,masterclass,masterclass_sellsiderisk_components_1,checkonchain.com/btconchain/masterclass/masterclass_sellsiderisk_components_1/masterclass_sellsiderisk_components_1_light.html,Sell-side Risk Ratio Components
 btconchain,masterclass,realised_profitloss_btc,checkonchain.com/btconchain/masterclass/realised_profitloss_btc/realised_profitloss_btc_light.html,Bitcoin Realised Profit/Loss 
@@ -86,7 +73,6 @@ btconchain,tradfi,choppinessindex_^gspc,checkonchain.com/btconchain/tradfi/chopp
 btconchain,tradfi,correlations_btc_7,checkonchain.com/btconchain/tradfi/correlations_btc_7/correlations_btc_7_light.html,Bitcoin Correlation to Tradfi Assets (7-day)
 btconchain,tradfi,correlations_btc_90,checkonchain.com/btconchain/tradfi/correlations_btc_90/correlations_btc_90_light.html,Bitcoin Correlation to Tradfi Assets (90-day)
 btconchain,tradfi,correlations_btc_30,checkonchain.com/btconchain/tradfi/correlations_btc_30/correlations_btc_30_light.html,Bitcoin Correlation to Tradfi Assets (30-day)
-btconchain,tradfi,tradfi_etf_supplycomparison,checkonchain.com/btconchain/tradfi/tradfi_etf_supplycomparison/tradfi_etf_supplycomparison_light.html,"Bitcoin Comparing the Scale of ETFs, Capital Inflows, and LTH Spending"
 btconchain,tradfi,tradfi_btc_vs_mag7_volatility90,checkonchain.com/btconchain/tradfi/tradfi_btc_vs_mag7_volatility90/tradfi_btc_vs_mag7_volatility90_light.html,Bitcoin vs Mag-7: Realised Volatility (90-day)
 btconchain,capitalrotation,capitalrotation_cagr,checkonchain.com/btconchain/capitalrotation/capitalrotation_cagr/capitalrotation_cagr_light.html,Compound Annual Growth Rate (CAGR) Over 4-Years
 btconchain,capitalrotation,capitalrotation_netposchange,checkonchain.com/btconchain/capitalrotation/capitalrotation_netposchange/capitalrotation_netposchange_light.html,Capital Rotation Net Position Change
@@ -115,7 +101,6 @@ btconchain,pricing,pricing_mayermultiple,checkonchain.com/btconchain/pricing/pri
 btconchain,pricing,pricing_picycleindicator,checkonchain.com/btconchain/pricing/pricing_picycleindicator/pricing_picycleindicator_light.html,Pi Cycle Top Indicator
 btconchain,pricing,price_infadj_0,checkonchain.com/btconchain/pricing/price_infadj_0/price_infadj_0_light.html,Bitcoin Inflation Adjusted Price (Todays Dollars)
 btconchain,pricing,price_q,checkonchain.com/btconchain/pricing/price_q/price_q_light.html,Bitcoin Quarterly Price
-btconchain,pricing,price_d,checkonchain.com/btconchain/pricing/price_d/price_d_light.html,Bitcoin Daily Price
 btconchain,pricing,pricing_euphoriazone,checkonchain.com/btconchain/pricing/pricing_euphoriazone/pricing_euphoriazone_light.html,The Bitcoin Euphoria Zone
 btconchain,pricing,pricing_mvrv_bands,checkonchain.com/btconchain/pricing/pricing_mvrv_bands/pricing_mvrv_bands_light.html,MVRV Pricing Bands
 btconchain,pricing,pricing_costbasisoriginals_oscillators,checkonchain.com/btconchain/pricing/pricing_costbasisoriginals_oscillators/pricing_costbasisoriginals_oscillators_light.html,Key Cost Basis Models Price Models
@@ -140,22 +125,31 @@ btconchain,pricing,pricing_price_fibs_2019,checkonchain.com/btconchain/pricing/p
 btconchain,pricing,price,checkonchain.com/btconchain/pricing/price/price_light.html,Bitcoin Price
 btconchain,unrealised,mvrv_zscore_ribbon,checkonchain.com/btconchain/unrealised/mvrv_zscore_ribbon/mvrv_zscore_ribbon_light.html,MVRV Z-Score Ribbon
 btconchain,unrealised,histogram_mvrv,checkonchain.com/btconchain/unrealised/histogram_mvrv/histogram_mvrv_light.html,MVRV Distributions
+btconchain,unrealised,topheavy_supplyinloss,checkonchain.com/btconchain/unrealised/topheavy_supplyinloss/topheavy_supplyinloss_light.html,Supply in Loss
 btconchain,unrealised,histogram_bullbear_mvrv_zscore,checkonchain.com/btconchain/unrealised/histogram_bullbear_mvrv_zscore/histogram_bullbear_mvrv_zscore_light.html,MVRV Ratio Z-Score Distributions
+btconchain,unrealised,topheavy_drawdowns_bull_pctsupplyinprofit,checkonchain.com/btconchain/unrealised/topheavy_drawdowns_bull_pctsupplyinprofit/topheavy_drawdowns_bull_pctsupplyinprofit_light.html,Cycle Percent Supply in Profit
 btconchain,unrealised,histogram_bullbear_mvrv_lth_zscore,checkonchain.com/btconchain/unrealised/histogram_bullbear_mvrv_lth_zscore/histogram_bullbear_mvrv_lth_zscore_light.html,LTH-MVRV Ratio Z-Score Distribution
 btconchain,unrealised,unrealised_profitloss_ratio_lth,checkonchain.com/btconchain/unrealised/unrealised_profitloss_ratio_lth/unrealised_profitloss_ratio_lth_light.html,Long-Term Holder Unrealised Profit/Loss Ratio
+btconchain,unrealised,pctsupplyinprofit_all,checkonchain.com/btconchain/unrealised/pctsupplyinprofit_all/pctsupplyinprofit_all_light.html, Percent Supply in Profit
 btconchain,unrealised,histogram_aviv_zscore,checkonchain.com/btconchain/unrealised/histogram_aviv_zscore/histogram_aviv_zscore_light.html,AVIV Z-Score Distribution
 btconchain,unrealised,histogram_mvrv_bullbear_mvrv,checkonchain.com/btconchain/unrealised/histogram_mvrv_bullbear_mvrv/histogram_mvrv_bullbear_mvrv_light.html,MVRV Bull and Bear Distributions
 btconchain,unrealised,histogram_nupl,checkonchain.com/btconchain/unrealised/histogram_nupl/histogram_nupl_light.html,NUPL Distributions
+btconchain,unrealised,topheavy_unrealisedloss_sth,checkonchain.com/btconchain/unrealised/topheavy_unrealisedloss_sth/topheavy_unrealisedloss_sth_light.html,Short-Term Holder Wealth Held in Loss
+btconchain,unrealised,topheavy_unrealisedloss,checkonchain.com/btconchain/unrealised/topheavy_unrealisedloss/topheavy_unrealisedloss_light.html,Total Wealth Held in Loss
 btconchain,unrealised,mvrv_momentum_sth,checkonchain.com/btconchain/unrealised/mvrv_momentum_sth/mvrv_momentum_sth_light.html,Short-Term Holder MVRV Ratio Momentum
+btconchain,unrealised,topheavy_supplyinloss_lth,checkonchain.com/btconchain/unrealised/topheavy_supplyinloss_lth/topheavy_supplyinloss_lth_light.html,Top Heavy Markets: Percent Long-Term Holder Supply in Loss
 btconchain,unrealised,supply_profitloss_ratio_sth,checkonchain.com/btconchain/unrealised/supply_profitloss_ratio_sth/supply_profitloss_ratio_sth_light.html,Short-Term Holder Supply in Profit/Loss Ratio
 btconchain,unrealised,mvrv_lth,checkonchain.com/btconchain/unrealised/mvrv_lth/mvrv_lth_light.html,Long-Term Holder MVRV Ratio
+btconchain,unrealised,topheavy_unrealisedloss_lth,checkonchain.com/btconchain/unrealised/topheavy_unrealisedloss_lth/topheavy_unrealisedloss_lth_light.html,Long-Term Holder Wealth Held in Loss
 btconchain,unrealised,nupl_bycohort,checkonchain.com/btconchain/unrealised/nupl_bycohort/nupl_bycohort_light.html,Net Unrealised Profit/Loss by Cohort (NUPL)
 btconchain,unrealised,mvrv_triple,checkonchain.com/btconchain/unrealised/mvrv_triple/mvrv_triple_light.html,Key Cost Basis Models and MVRV Oscillators
 btconchain,unrealised,mvrv_momentum,checkonchain.com/btconchain/unrealised/mvrv_momentum/mvrv_momentum_light.html,MVRV Ratio Momentum
 btconchain,unrealised,nupl,checkonchain.com/btconchain/unrealised/nupl/nupl_light.html,Net Unrealised Profit/Loss (NUPL)
 btconchain,unrealised,mvrv_gradient_30,checkonchain.com/btconchain/unrealised/mvrv_gradient_30/mvrv_gradient_30_light.html,MVRV Gradient Oscillator 30-day
+btconchain,unrealised,pctunrealisedprofit_lth,checkonchain.com/btconchain/unrealised/pctunrealisedprofit_lth/pctunrealisedprofit_lth_light.html,Long-Term Holder Percent Unrealised Profit
 btconchain,unrealised,sthmvrv_bollingerbands,checkonchain.com/btconchain/unrealised/sthmvrv_bollingerbands/sthmvrv_bollingerbands_light.html,Short-Term Holder MVRV Bollinger Bands
 btconchain,unrealised,mvrv_gradient_180,checkonchain.com/btconchain/unrealised/mvrv_gradient_180/mvrv_gradient_180_light.html,MVRV Gradient Oscillator 180-day
+btconchain,unrealised,pctunrealisedprofit_all,checkonchain.com/btconchain/unrealised/pctunrealisedprofit_all/pctunrealisedprofit_all_light.html, Percent Unrealised Profit
 btconchain,unrealised,aviv_gradient_90,checkonchain.com/btconchain/unrealised/aviv_gradient_90/aviv_gradient_90_light.html,AVIV Gradient Oscillator 90-day
 btconchain,unrealised,unrealised_profitloss_1,checkonchain.com/btconchain/unrealised/unrealised_profitloss_1/unrealised_profitloss_1_light.html,Relative Unrealised Profit/Loss
 btconchain,unrealised,mvrv_aviv_1,checkonchain.com/btconchain/unrealised/mvrv_aviv_1/mvrv_aviv_1_light.html,True Market Mean and AVIV Ratio Indicator
@@ -173,12 +167,17 @@ btconchain,unrealised,mvrv_unrealisedpnl,checkonchain.com/btconchain/unrealised/
 btconchain,unrealised,aviv_gradient_360,checkonchain.com/btconchain/unrealised/aviv_gradient_360/aviv_gradient_360_light.html,AVIV Gradient Oscillator 360-day
 btconchain,unrealised,histogram_bullbear_mvrv_sth_zscore,checkonchain.com/btconchain/unrealised/histogram_bullbear_mvrv_sth_zscore/histogram_bullbear_mvrv_sth_zscore_light.html,STH-MVRV Ratio Z-Score Distribution
 btconchain,unrealised,mvrv_sth,checkonchain.com/btconchain/unrealised/mvrv_sth/mvrv_sth_light.html,Short-Term Holder MVRV Ratio
+btconchain,unrealised,topheavy_supplyinloss_sth,checkonchain.com/btconchain/unrealised/topheavy_supplyinloss_sth/topheavy_supplyinloss_sth_light.html,Top Heavy Markets: Short-Term Holder Supply in Loss
 btconchain,unrealised,aviv_gradient_all,checkonchain.com/btconchain/unrealised/aviv_gradient_all/aviv_gradient_all_light.html,AVIV Gradient Oscillator Signal
+btconchain,unrealised,topheavy_supplyinloss_sth_1,checkonchain.com/btconchain/unrealised/topheavy_supplyinloss_sth_1/topheavy_supplyinloss_sth_1_light.html,Top Heavy Markets: Relative Short-Term Holder Supply in Loss (%)
+btconchain,unrealised,pctunrealisedprofit_sth,checkonchain.com/btconchain/unrealised/pctunrealisedprofit_sth/pctunrealisedprofit_sth_light.html,Short-Term Holder Percent Unrealised Profit
 btconchain,unrealised,histogram_mvrv_bullbear_mvrv_lth,checkonchain.com/btconchain/unrealised/histogram_mvrv_bullbear_mvrv_lth/histogram_mvrv_bullbear_mvrv_lth_light.html,MVRV_LTH Bull and Bear Distributions
 btconchain,unrealised,aviv_gradient_180,checkonchain.com/btconchain/unrealised/aviv_gradient_180/aviv_gradient_180_light.html,AVIV Gradient Oscillator 180-day
+btconchain,unrealised,pctsupplyinprofit_lth,checkonchain.com/btconchain/unrealised/pctsupplyinprofit_lth/pctsupplyinprofit_lth_light.html,Long-Term Holder Percent Supply in Profit
 btconchain,unrealised,nupl_bycohort_zscore,checkonchain.com/btconchain/unrealised/nupl_bycohort_zscore/nupl_bycohort_zscore_light.html,Net Unrealised Profit/Loss by Cohort Z-Score (NUPL-Z)
 btconchain,unrealised,aviv_gradient_30,checkonchain.com/btconchain/unrealised/aviv_gradient_30/aviv_gradient_30_light.html,AVIV Gradient Oscillator 30-day
 btconchain,unrealised,sthmvrv_indicator,checkonchain.com/btconchain/unrealised/sthmvrv_indicator/sthmvrv_indicator_light.html,Short-Term Holder MVRV Indicator
+btconchain,unrealised,pctsupplyinprofit_sth,checkonchain.com/btconchain/unrealised/pctsupplyinprofit_sth/pctsupplyinprofit_sth_light.html,Short-Term Holder Percent Supply in Profit
 btconchain,unrealised,mvrv_aviv_0,checkonchain.com/btconchain/unrealised/mvrv_aviv_0/mvrv_aviv_0_light.html,True Market Mean and AVIV Ratio Indicator
 btconchain,unrealised,supply_profitloss_ratio_all,checkonchain.com/btconchain/unrealised/supply_profitloss_ratio_all/supply_profitloss_ratio_all_light.html, Supply in Profit/Loss Ratio
 btconchain,unrealised,mvrv_gradient_all,checkonchain.com/btconchain/unrealised/mvrv_gradient_all/mvrv_gradient_all_light.html,MVRV Gradient Oscillator Signal
@@ -241,7 +240,6 @@ btconchain,demand,rcapliquiditycycle,checkonchain.com/btconchain/demand/rcapliqu
 btconchain,demand,sold_lthspent_2018-01-01,checkonchain.com/btconchain/demand/sold_lthspent_2018-01-01/sold_lthspent_2018-01-01_light.html,Long-Term Holder Distribution Since 2018-01-01
 btconchain,demand,sold_realisedpnl_2020-01-01,checkonchain.com/btconchain/demand/sold_realisedpnl_2020-01-01/sold_realisedpnl_2020-01-01_light.html,Realised Profit/Loss Since 2020-01-01 (30-day Sum)
 btconchain,demand,inflowcomparison_2015-01-01,checkonchain.com/btconchain/demand/inflowcomparison_2015-01-01/inflowcomparison_2015-01-01_light.html,Demand Inflow Estimates Since 2015-01-01
-btconchain,demand,demandflow_comparison30,checkonchain.com/btconchain/demand/demandflow_comparison30/demandflow_comparison30_light.html,"Bitcoin Comparing the Scale of ETFs, Capital Inflows, and LTH Spending"
 btconchain,demand,multipliereffect,checkonchain.com/btconchain/demand/multipliereffect/multipliereffect_light.html,Realised Capital Multipler Effect (365-day)
 btconchain,demand,inflowcomparison_2020-03-12,checkonchain.com/btconchain/demand/inflowcomparison_2020-03-12/inflowcomparison_2020-03-12_light.html,Demand Inflow Estimates Since 2020-03-12
 btconchain,demand,capitaltovaluationratio,checkonchain.com/btconchain/demand/capitaltovaluationratio/capitaltovaluationratio_light.html,Capital Flow Required per Unit Valuation Change
@@ -250,12 +248,8 @@ btconchain,demand,inflowcomparison_2024-01-01,checkonchain.com/btconchain/demand
 btconchain,demand,demandflow_comparison_30,checkonchain.com/btconchain/demand/demandflow_comparison_30/demandflow_comparison_30_light.html,"Comparing the Scale of ETFs, Capital Inflows, and LTH Spending"
 btconchain,demand,sold_realisedpnl_2015-01-01,checkonchain.com/btconchain/demand/sold_realisedpnl_2015-01-01/sold_realisedpnl_2015-01-01_light.html,Realised Profit/Loss Since 2015-01-01 (30-day Sum)
 btconchain,demand,sold_lthspent_2022-11-09,checkonchain.com/btconchain/demand/sold_lthspent_2022-11-09/sold_lthspent_2022-11-09_light.html,Long-Term Holder Distribution Since 2022-11-09
-btconchain,entity_checks,demand_realisedprofitloss_2022-11-09,checkonchain.com/btconchain/entity_checks/demand_realisedprofitloss_2022-11-09/demand_realisedprofitloss_2022-11-09_light.html,Bitcoin Realised Profit/Loss Since 2022-11-09
 btconchain,entity_checks,2024chop_supplyoverheads_1,checkonchain.com/btconchain/entity_checks/2024chop_supplyoverheads_1/2024chop_supplyoverheads_1_light.html,Supply Overheads During 2024 Chop-solidation
-btconchain,entity_checks,demand_lthsupplyspent_2022-11-09,checkonchain.com/btconchain/entity_checks/demand_lthsupplyspent_2022-11-09/demand_lthsupplyspent_2022-11-09_light.html,Bitcoin Long-Term Holder Distribution Since 2022-11-09
-btconchain,entity_checks,demand_realisedprofitloss_2015-01-01,checkonchain.com/btconchain/entity_checks/demand_realisedprofitloss_2015-01-01/demand_realisedprofitloss_2015-01-01_light.html,Bitcoin Realised Profit/Loss Since 2015-01-01
 btconchain,entity_checks,2024chop_supplyoverheads_0,checkonchain.com/btconchain/entity_checks/2024chop_supplyoverheads_0/2024chop_supplyoverheads_0_light.html,Supply Overheads During 2024 Chop-solidation
-btconchain,entity_checks,demand_realisedprofitloss_2020-01-01,checkonchain.com/btconchain/entity_checks/demand_realisedprofitloss_2020-01-01/demand_realisedprofitloss_2020-01-01_light.html,Bitcoin Realised Profit/Loss Since 2020-01-01
 btconchain,realised,histogram_sopr_bullbear_SOPR_LTH,checkonchain.com/btconchain/realised/histogram_sopr_bullbear_SOPR_LTH/histogram_sopr_bullbear_SOPR_LTH_light.html,LTH-SOPR Bull and Bear Distributions
 btconchain,realised,histogram_sopr_bullbear_SOPR_STH,checkonchain.com/btconchain/realised/histogram_sopr_bullbear_SOPR_STH/histogram_sopr_bullbear_SOPR_STH_light.html,STH-SOPR Bull and Bear Distributions
 btconchain,realised,netsellsideriskratio,checkonchain.com/btconchain/realised/netsellsideriskratio/netsellsideriskratio_light.html,Net Sell-side Risk Ratio
@@ -267,32 +261,20 @@ btconchain,realised,lthsopr_indicator,checkonchain.com/btconchain/realised/lthso
 btconchain,realised,sellsideriskratio_net,checkonchain.com/btconchain/realised/sellsideriskratio_net/sellsideriskratio_net_light.html,Net Sell-side Risk Ratio
 btconchain,realised,realisedpnl_bycohort_0,checkonchain.com/btconchain/realised/realisedpnl_bycohort_0/realisedpnl_bycohort_0_light.html,Realised Loss by Cohort [BTC]
 btconchain,realised,signal_realisedpnl_momentum_sth,checkonchain.com/btconchain/realised/signal_realisedpnl_momentum_sth/signal_realisedpnl_momentum_sth_light.html,Short-Term Holder Realised Profit/Loss Momentum
-btconchain,realised,realised_profitloss_bycohort_bands_btc_lth,checkonchain.com/btconchain/realised/realised_profitloss_bycohort_bands_btc_lth/realised_profitloss_bycohort_bands_btc_lth_light.html,Long Term Holder Bitcoin Realised Profit/Loss 
-btconchain,realised,realised_realisedprofitloss_1,checkonchain.com/btconchain/realised/realised_realisedprofitloss_1/realised_realisedprofitloss_1_light.html,Realised Profit and Loss [BTC]
-btconchain,realised,realised_netrealisedpnl_,checkonchain.com/btconchain/realised/realised_netrealisedpnl_/realised_netrealisedpnl__light.html,Net Realized Profit Ratio
-btconchain,realised,realised_netrealisedpnl_usd,checkonchain.com/btconchain/realised/realised_netrealisedpnl_usd/realised_netrealisedpnl_usd_light.html,Net Realised Profit/Loss [USD]
 btconchain,realised,realised_drawdowns_bull_realisedloss,checkonchain.com/btconchain/realised/realised_drawdowns_bull_realisedloss/realised_drawdowns_bull_realisedloss_light.html,Realised Profit During Bull Markets
 btconchain,realised,realisedpnl_ratio_all,checkonchain.com/btconchain/realised/realisedpnl_ratio_all/realisedpnl_ratio_all_light.html, Realised Profit/Loss Ratio
-btconchain,realised,realised_netrealisedpnl_btc,checkonchain.com/btconchain/realised/realised_netrealisedpnl_btc/realised_netrealisedpnl_btc_light.html,Net Realised Profit/Loss [BTC]
 btconchain,realised,realisedpnl_bycohort_bands_,checkonchain.com/btconchain/realised/realisedpnl_bycohort_bands_/realisedpnl_bycohort_bands__light.html,Bitcoin Realised Profit/Loss 
 btconchain,realised,netrealisedpnl_momentum_0,checkonchain.com/btconchain/realised/netrealisedpnl_momentum_0/netrealisedpnl_momentum_0_light.html,Net Realised Profit/Loss Momentum
 btconchain,realised,netrealisedpnl_usd,checkonchain.com/btconchain/realised/netrealisedpnl_usd/netrealisedpnl_usd_light.html,Net Realised Profit/Loss [USD]
-btconchain,realised,realised_profitlossratio_lth,checkonchain.com/btconchain/realised/realised_profitlossratio_lth/realised_profitlossratio_lth_light.html,Long-Term Holder Realised Profit/Loss Ratio
-btconchain,realised,realised_profitloss_bycohort_bands_btc_sth,checkonchain.com/btconchain/realised/realised_profitloss_bycohort_bands_btc_sth/realised_profitloss_bycohort_bands_btc_sth_light.html,Short Term Holder Bitcoin Realised Profit/Loss 
-btconchain,realised,realised_lthsoprindicator,checkonchain.com/btconchain/realised/realised_lthsoprindicator/realised_lthsoprindicator_light.html,Long-Term Holder LTH-SOPR Indicator
 btconchain,realised,realisedpnl_bycohort_dominance,checkonchain.com/btconchain/realised/realisedpnl_bycohort_dominance/realisedpnl_bycohort_dominance_light.html,Realised Profit/Loss Dominance by Cohort
 btconchain,realised,realisedpnl_2,checkonchain.com/btconchain/realised/realisedpnl_2/realisedpnl_2_light.html,Realised Profit and Loss [BTC]
 btconchain,realised,realisedpnl_bycohort_1,checkonchain.com/btconchain/realised/realisedpnl_bycohort_1/realisedpnl_bycohort_1_light.html,Realised Profit by Cohort [BTC]
 btconchain,realised,realisedpnl_0,checkonchain.com/btconchain/realised/realisedpnl_0/realisedpnl_0_light.html,Realised Profit and Loss [USD]
-btconchain,realised,realised_realisedprofitloss_bycohort_0,checkonchain.com/btconchain/realised/realised_realisedprofitloss_bycohort_0/realised_realisedprofitloss_bycohort_0_light.html,Realised Loss by Cohort [BTC]
 btconchain,realised,signal_realisedpnl_momentum_all,checkonchain.com/btconchain/realised/signal_realisedpnl_momentum_all/signal_realisedpnl_momentum_all_light.html, Realised Profit/Loss Momentum
 btconchain,realised,realisedpnl_bycohort_bands__sth,checkonchain.com/btconchain/realised/realisedpnl_bycohort_bands__sth/realisedpnl_bycohort_bands__sth_light.html,Short Term Holder Bitcoin Realised Profit/Loss 
-btconchain,realised,realised_sthsoprindicator,checkonchain.com/btconchain/realised/realised_sthsoprindicator/realised_sthsoprindicator_light.html,Short-Term Holder STH-SOPR Indicator
 btconchain,realised,realisedpnl_bycohort_bands__lth,checkonchain.com/btconchain/realised/realisedpnl_bycohort_bands__lth/realisedpnl_bycohort_bands__lth_light.html,Long Term Holder Bitcoin Realised Profit/Loss 
-btconchain,realised,realised_realisedprofitloss_0,checkonchain.com/btconchain/realised/realised_realisedprofitloss_0/realised_realisedprofitloss_0_light.html,Realised Profit and Loss [USD]
 btconchain,realised,netrealisedpnl_btc,checkonchain.com/btconchain/realised/netrealisedpnl_btc/netrealisedpnl_btc_light.html,Net Realised Profit/Loss [BTC]
 btconchain,realised,netrealisedpnl_momentum_1,checkonchain.com/btconchain/realised/netrealisedpnl_momentum_1/netrealisedpnl_momentum_1_light.html,Net Realised Profit Momentum
-btconchain,realised,realised_profitloss_bycohort_bands_btc,checkonchain.com/btconchain/realised/realised_profitloss_bycohort_bands_btc/realised_profitloss_bycohort_bands_btc_light.html,Bitcoin Realised Profit/Loss 
 btconchain,realised,realisedpnl_ratio_sth,checkonchain.com/btconchain/realised/realisedpnl_ratio_sth/realisedpnl_ratio_sth_light.html,Short-Term Holder Realised Profit/Loss Ratio
 btconchain,realised,sopr,checkonchain.com/btconchain/realised/sopr/sopr_light.html,Spent Output Profit Ratio (SOPR)
 btconchain,realised,histogram_sopr_lth,checkonchain.com/btconchain/realised/histogram_sopr_lth/histogram_sopr_lth_light.html,SOPR_LTH Distributions
@@ -300,18 +282,11 @@ btconchain,realised,realisedpnl_1,checkonchain.com/btconchain/realised/realisedp
 btconchain,realised,sopr_zscore,checkonchain.com/btconchain/realised/sopr_zscore/sopr_zscore_light.html,SOPR Z-Score
 btconchain,realised,histogram_sopr,checkonchain.com/btconchain/realised/histogram_sopr/histogram_sopr_light.html,SOPR Distributions
 btconchain,realised,histogram_sopr_sth,checkonchain.com/btconchain/realised/histogram_sopr_sth/histogram_sopr_sth_light.html,SOPR_STH Distributions
-btconchain,realised,realised_realisedprofitloss_bycohort_2,checkonchain.com/btconchain/realised/realised_realisedprofitloss_bycohort_2/realised_realisedprofitloss_bycohort_2_light.html,Realised Profit and Loss by Cohort [BTC]
 btconchain,realised,signal_realisedpnl_momentum_lth,checkonchain.com/btconchain/realised/signal_realisedpnl_momentum_lth/signal_realisedpnl_momentum_lth_light.html,Long-Term Holder Realised Profit/Loss Momentum
 btconchain,realised,sellsideriskratio_sth,checkonchain.com/btconchain/realised/sellsideriskratio_sth/sellsideriskratio_sth_light.html,Short-Term Holder Sell-side Risk Ratio
-btconchain,realised,realised_profitlossratio_all,checkonchain.com/btconchain/realised/realised_profitlossratio_all/realised_profitlossratio_all_light.html, Realised Profit/Loss Ratio
-btconchain,realised,realised_profitlossratio_sth,checkonchain.com/btconchain/realised/realised_profitlossratio_sth/realised_profitlossratio_sth_light.html,Short-Term Holder Realised Profit/Loss Ratio
 btconchain,realised,sellsideriskratio_lth,checkonchain.com/btconchain/realised/sellsideriskratio_lth/sellsideriskratio_lth_light.html,Long-Term Holder Sell-side Risk Ratio
 btconchain,realised,sthsopr_indicator,checkonchain.com/btconchain/realised/sthsopr_indicator/sthsopr_indicator_light.html,Short-Term Holder STH-SOPR Indicator
-btconchain,realised,realised_realisedprofitloss_bycohort_dominance,checkonchain.com/btconchain/realised/realised_realisedprofitloss_bycohort_dominance/realised_realisedprofitloss_bycohort_dominance_light.html,Realised Profit/Loss Dominance by Cohort
 btconchain,realised,realisedpnl_ratio_lth,checkonchain.com/btconchain/realised/realisedpnl_ratio_lth/realisedpnl_ratio_lth_light.html,Long-Term Holder Realised Profit/Loss Ratio
-btconchain,realised,realised_realisedprofitloss_2,checkonchain.com/btconchain/realised/realised_realisedprofitloss_2/realised_realisedprofitloss_2_light.html,Realised Profit and Loss [BTC]
-btconchain,realised,realised_realisedcapnetposchange,checkonchain.com/btconchain/realised/realised_realisedcapnetposchange/realised_realisedcapnetposchange_light.html,Realised Cap Net Position Change (%)
-btconchain,realised,realised_realisedprofitloss_bycohort_1,checkonchain.com/btconchain/realised/realised_realisedprofitloss_bycohort_1/realised_realisedprofitloss_bycohort_1_light.html,Realised Profit by Cohort [BTC]
 btconchain,realised,realisedpnl_bycohort_2,checkonchain.com/btconchain/realised/realisedpnl_bycohort_2/realisedpnl_bycohort_2_light.html,Realised Profit and Loss by Cohort [BTC]
 btconchain,realised,netrealisedpnl_,checkonchain.com/btconchain/realised/netrealisedpnl_/netrealisedpnl__light.html,Net Realized Profit Ratio
 btconchain,realised,sopr_lth_zscore,checkonchain.com/btconchain/realised/sopr_lth_zscore/sopr_lth_zscore_light.html,LTH-SOPR Z-Score
@@ -394,7 +369,6 @@ btconchain,derivatives,derivatives_btc_liquidations,checkonchain.com/btconchain/
 btconchain,derivatives,derivatives_futures_oi_0,checkonchain.com/btconchain/derivatives/derivatives_futures_oi_0/derivatives_futures_oi_0_light.html,Bitcoin Futures Open Interest
 btconchain,derivatives,derivatives_futuresvolume_byexchange,checkonchain.com/btconchain/derivatives/derivatives_futuresvolume_byexchange/derivatives_futuresvolume_byexchange_light.html,Bitcoin Futures Volume [USD]
 btconchain,derivatives,derivatives_termstructure_1,checkonchain.com/btconchain/derivatives/derivatives_termstructure_1/derivatives_termstructure_1_light.html,Bitcoin Futures Term Structure Premium (Annualised)
-btconchain,derivatives,derivatives_etf_vs_cme_0,checkonchain.com/btconchain/derivatives/derivatives_etf_vs_cme_0/derivatives_etf_vs_cme_0_light.html,Bitcoin ETF Flows vs CME Open Interest [BTC]
 btconchain,derivatives,derivatives_cme_prices,checkonchain.com/btconchain/derivatives/derivatives_cme_prices/derivatives_cme_prices_light.html,Bitcoin CME Futures Contract Prices
 btconchain,derivatives,derivatives_options_oi_byexchange_0,checkonchain.com/btconchain/derivatives/derivatives_options_oi_byexchange_0/derivatives_options_oi_byexchange_0_light.html,Bitcoin Options Open Interest [USD]
 btconchain,etfs,etf_cumflows,checkonchain.com/btconchain/etfs/etf_cumflows/etf_cumflows_light.html,Total Bitcoin ETF Cumulative Flows [USD]
@@ -410,7 +384,6 @@ btconchain,etfs,etf_balance_1,checkonchain.com/btconchain/etfs/etf_balance_1/etf
 btconchain,etfs,etf_mvrv,checkonchain.com/btconchain/etfs/etf_mvrv/etf_mvrv_light.html,Bitcoin ETF Average Cost Basis and MVRV
 btconchain,etfs,etf_volume_vsspot,checkonchain.com/btconchain/etfs/etf_volume_vsspot/etf_volume_vsspot_light.html,Bitcoin: Futures vs Spot vs ETF Trade Volume
 btconchain,etfs,etf_flows_eth_1,checkonchain.com/btconchain/etfs/etf_flows_eth_1/etf_flows_eth_1_light.html,Ethereum ETF Flows [USD]
-btconchain,etfs,etf_vs_cme_0,checkonchain.com/btconchain/etfs/etf_vs_cme_0/etf_vs_cme_0_light.html,Bitcoin ETF Flows vs CME Open Interest [BTC]
 btconchain,technical,technical_pricehighlowrange_7,checkonchain.com/btconchain/technical/technical_pricehighlowrange_7/technical_pricehighlowrange_7_light.html,"7-day Price High, Low and Range"
 btconchain,technical,technical_bollingerbands_daysabove,checkonchain.com/btconchain/technical/technical_bollingerbands_daysabove/technical_bollingerbands_daysabove_light.html,Percent Days Above Middle Bollinger Band (365-day)
 btconchain,technical,price_sum_updowndays_90,checkonchain.com/btconchain/technical/price_sum_updowndays_90/price_sum_updowndays_90_light.html,Price 90-day Net Count of Up/Down days
