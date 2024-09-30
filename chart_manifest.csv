@@ -250,6 +250,7 @@ btconchain,demand,sold_realisedpnl_2015-01-01,checkonchain.com/btconchain/demand
 btconchain,demand,sold_lthspent_2022-11-09,checkonchain.com/btconchain/demand/sold_lthspent_2022-11-09/sold_lthspent_2022-11-09_light.html,Long-Term Holder Distribution Since 2022-11-09
 btconchain,entity_checks,2024chop_supplyoverheads_1,checkonchain.com/btconchain/entity_checks/2024chop_supplyoverheads_1/2024chop_supplyoverheads_1_light.html,Supply Overheads During 2024 Chop-solidation
 btconchain,entity_checks,2024chop_supplyoverheads_0,checkonchain.com/btconchain/entity_checks/2024chop_supplyoverheads_0/2024chop_supplyoverheads_0_light.html,Supply Overheads During 2024 Chop-solidation
+btconchain,realised,realisedpnl_bycohort_bands_sth,checkonchain.com/btconchain/realised/realisedpnl_bycohort_bands_sth/realisedpnl_bycohort_bands_sth_light.html,Short Term Holder Bitcoin Realised Profit/Loss 
 btconchain,realised,histogram_sopr_bullbear_SOPR_LTH,checkonchain.com/btconchain/realised/histogram_sopr_bullbear_SOPR_LTH/histogram_sopr_bullbear_SOPR_LTH_light.html,LTH-SOPR Bull and Bear Distributions
 btconchain,realised,histogram_sopr_bullbear_SOPR_STH,checkonchain.com/btconchain/realised/histogram_sopr_bullbear_SOPR_STH/histogram_sopr_bullbear_SOPR_STH_light.html,STH-SOPR Bull and Bear Distributions
 btconchain,realised,netsellsideriskratio,checkonchain.com/btconchain/realised/netsellsideriskratio/netsellsideriskratio_light.html,Net Sell-side Risk Ratio
@@ -263,16 +264,15 @@ btconchain,realised,realisedpnl_bycohort_0,checkonchain.com/btconchain/realised/
 btconchain,realised,signal_realisedpnl_momentum_sth,checkonchain.com/btconchain/realised/signal_realisedpnl_momentum_sth/signal_realisedpnl_momentum_sth_light.html,Short-Term Holder Realised Profit/Loss Momentum
 btconchain,realised,realised_drawdowns_bull_realisedloss,checkonchain.com/btconchain/realised/realised_drawdowns_bull_realisedloss/realised_drawdowns_bull_realisedloss_light.html,Realised Profit During Bull Markets
 btconchain,realised,realisedpnl_ratio_all,checkonchain.com/btconchain/realised/realisedpnl_ratio_all/realisedpnl_ratio_all_light.html, Realised Profit/Loss Ratio
-btconchain,realised,realisedpnl_bycohort_bands_,checkonchain.com/btconchain/realised/realisedpnl_bycohort_bands_/realisedpnl_bycohort_bands__light.html,Bitcoin Realised Profit/Loss 
 btconchain,realised,netrealisedpnl_momentum_0,checkonchain.com/btconchain/realised/netrealisedpnl_momentum_0/netrealisedpnl_momentum_0_light.html,Net Realised Profit/Loss Momentum
 btconchain,realised,netrealisedpnl_usd,checkonchain.com/btconchain/realised/netrealisedpnl_usd/netrealisedpnl_usd_light.html,Net Realised Profit/Loss [USD]
+btconchain,realised,realisedpnl_bycohort_bands,checkonchain.com/btconchain/realised/realisedpnl_bycohort_bands/realisedpnl_bycohort_bands_light.html,Bitcoin Realised Profit/Loss 
 btconchain,realised,realisedpnl_bycohort_dominance,checkonchain.com/btconchain/realised/realisedpnl_bycohort_dominance/realisedpnl_bycohort_dominance_light.html,Realised Profit/Loss Dominance by Cohort
 btconchain,realised,realisedpnl_2,checkonchain.com/btconchain/realised/realisedpnl_2/realisedpnl_2_light.html,Realised Profit and Loss [BTC]
 btconchain,realised,realisedpnl_bycohort_1,checkonchain.com/btconchain/realised/realisedpnl_bycohort_1/realisedpnl_bycohort_1_light.html,Realised Profit by Cohort [BTC]
 btconchain,realised,realisedpnl_0,checkonchain.com/btconchain/realised/realisedpnl_0/realisedpnl_0_light.html,Realised Profit and Loss [USD]
+btconchain,realised,realisedpnl_bycohort_bands_lth,checkonchain.com/btconchain/realised/realisedpnl_bycohort_bands_lth/realisedpnl_bycohort_bands_lth_light.html,Long Term Holder Bitcoin Realised Profit/Loss 
 btconchain,realised,signal_realisedpnl_momentum_all,checkonchain.com/btconchain/realised/signal_realisedpnl_momentum_all/signal_realisedpnl_momentum_all_light.html, Realised Profit/Loss Momentum
-btconchain,realised,realisedpnl_bycohort_bands__sth,checkonchain.com/btconchain/realised/realisedpnl_bycohort_bands__sth/realisedpnl_bycohort_bands__sth_light.html,Short Term Holder Bitcoin Realised Profit/Loss 
-btconchain,realised,realisedpnl_bycohort_bands__lth,checkonchain.com/btconchain/realised/realisedpnl_bycohort_bands__lth/realisedpnl_bycohort_bands__lth_light.html,Long Term Holder Bitcoin Realised Profit/Loss 
 btconchain,realised,netrealisedpnl_btc,checkonchain.com/btconchain/realised/netrealisedpnl_btc/netrealisedpnl_btc_light.html,Net Realised Profit/Loss [BTC]
 btconchain,realised,netrealisedpnl_momentum_1,checkonchain.com/btconchain/realised/netrealisedpnl_momentum_1/netrealisedpnl_momentum_1_light.html,Net Realised Profit Momentum
 btconchain,realised,realisedpnl_ratio_sth,checkonchain.com/btconchain/realised/realisedpnl_ratio_sth/realisedpnl_ratio_sth_light.html,Short-Term Holder Realised Profit/Loss Ratio
@@ -280,6 +280,7 @@ btconchain,realised,sopr,checkonchain.com/btconchain/realised/sopr/sopr_light.ht
 btconchain,realised,histogram_sopr_lth,checkonchain.com/btconchain/realised/histogram_sopr_lth/histogram_sopr_lth_light.html,SOPR_LTH Distributions
 btconchain,realised,realisedpnl_1,checkonchain.com/btconchain/realised/realisedpnl_1/realisedpnl_1_light.html,Realised Profit and Loss [BTC]
 btconchain,realised,sopr_zscore,checkonchain.com/btconchain/realised/sopr_zscore/sopr_zscore_light.html,SOPR Z-Score
+btconchain,realised,netrealisedpnl,checkonchain.com/btconchain/realised/netrealisedpnl/netrealisedpnl_light.html,Net Realized Profit Ratio
 btconchain,realised,histogram_sopr,checkonchain.com/btconchain/realised/histogram_sopr/histogram_sopr_light.html,SOPR Distributions
 btconchain,realised,histogram_sopr_sth,checkonchain.com/btconchain/realised/histogram_sopr_sth/histogram_sopr_sth_light.html,SOPR_STH Distributions
 btconchain,realised,signal_realisedpnl_momentum_lth,checkonchain.com/btconchain/realised/signal_realisedpnl_momentum_lth/signal_realisedpnl_momentum_lth_light.html,Long-Term Holder Realised Profit/Loss Momentum
@@ -288,7 +289,6 @@ btconchain,realised,sellsideriskratio_lth,checkonchain.com/btconchain/realised/s
 btconchain,realised,sthsopr_indicator,checkonchain.com/btconchain/realised/sthsopr_indicator/sthsopr_indicator_light.html,Short-Term Holder STH-SOPR Indicator
 btconchain,realised,realisedpnl_ratio_lth,checkonchain.com/btconchain/realised/realisedpnl_ratio_lth/realisedpnl_ratio_lth_light.html,Long-Term Holder Realised Profit/Loss Ratio
 btconchain,realised,realisedpnl_bycohort_2,checkonchain.com/btconchain/realised/realisedpnl_bycohort_2/realisedpnl_bycohort_2_light.html,Realised Profit and Loss by Cohort [BTC]
-btconchain,realised,netrealisedpnl_,checkonchain.com/btconchain/realised/netrealisedpnl_/netrealisedpnl__light.html,Net Realized Profit Ratio
 btconchain,realised,sopr_lth_zscore,checkonchain.com/btconchain/realised/sopr_lth_zscore/sopr_lth_zscore_light.html,LTH-SOPR Z-Score
 btconchain,realised,sopr_sth_zscore,checkonchain.com/btconchain/realised/sopr_sth_zscore/sopr_sth_zscore_light.html,STH-SOPR Z-Score
 btconchain,cointime,cointime_economic_inflation_s2f,checkonchain.com/btconchain/cointime/cointime_economic_inflation_s2f/cointime_economic_inflation_s2f_light.html,Annualised Inflation Rates and Stock-to-Flow Ratio
@@ -384,6 +384,7 @@ btconchain,etfs,etf_balance_1,checkonchain.com/btconchain/etfs/etf_balance_1/etf
 btconchain,etfs,etf_mvrv,checkonchain.com/btconchain/etfs/etf_mvrv/etf_mvrv_light.html,Bitcoin ETF Average Cost Basis and MVRV
 btconchain,etfs,etf_volume_vsspot,checkonchain.com/btconchain/etfs/etf_volume_vsspot/etf_volume_vsspot_light.html,Bitcoin: Futures vs Spot vs ETF Trade Volume
 btconchain,etfs,etf_flows_eth_1,checkonchain.com/btconchain/etfs/etf_flows_eth_1/etf_flows_eth_1_light.html,Ethereum ETF Flows [USD]
+btconchain,etfs,etf_vs_cme_0,checkonchain.com/btconchain/etfs/etf_vs_cme_0/etf_vs_cme_0_light.html,Bitcoin ETF Flows vs CME Open Interest [BTC]
 btconchain,technical,technical_pricehighlowrange_7,checkonchain.com/btconchain/technical/technical_pricehighlowrange_7/technical_pricehighlowrange_7_light.html,"7-day Price High, Low and Range"
 btconchain,technical,technical_bollingerbands_daysabove,checkonchain.com/btconchain/technical/technical_bollingerbands_daysabove/technical_bollingerbands_daysabove_light.html,Percent Days Above Middle Bollinger Band (365-day)
 btconchain,technical,price_sum_updowndays_90,checkonchain.com/btconchain/technical/price_sum_updowndays_90/price_sum_updowndays_90_light.html,Price 90-day Net Count of Up/Down days
