@@ -258,6 +258,7 @@ btconchain,realised,histogram_sopr_bullbear_SOPR_STH,checkonchain.com/btconchain
 btconchain,realised,netsellsideriskratio,checkonchain.com/btconchain/realised/netsellsideriskratio/netsellsideriskratio_light.html,Net Sell-side Risk Ratio
 btconchain,realised,sellsideriskratio_all,checkonchain.com/btconchain/realised/sellsideriskratio_all/sellsideriskratio_all_light.html, Sell-side Risk Ratio
 btconchain,realised,rcapnetposchange,checkonchain.com/btconchain/realised/rcapnetposchange/rcapnetposchange_light.html,Realised Cap Net Position Change (%)
+btconchain,realised,sopr_fundingrate,checkonchain.com/btconchain/realised/sopr_fundingrate/sopr_fundingrate_light.html,Annualised Futures Funding Rates vs SOPR
 btconchain,realised,netrealisedpnl_momentum_2,checkonchain.com/btconchain/realised/netrealisedpnl_momentum_2/netrealisedpnl_momentum_2_light.html,Net Realised Loss Momentum
 btconchain,realised,histogram_sopr_bullbear_SOPR,checkonchain.com/btconchain/realised/histogram_sopr_bullbear_SOPR/histogram_sopr_bullbear_SOPR_light.html,SOPR Bull and Bear Distributions
 btconchain,realised,lthsopr_indicator,checkonchain.com/btconchain/realised/lthsopr_indicator/lthsopr_indicator_light.html,Long-Term Holder LTH-SOPR Indicator
