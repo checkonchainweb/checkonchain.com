@@ -108,6 +108,7 @@ btconchain,pricing,pricing_costbasisoriginals_oscillators,checkonchain.com/btcon
 btconchain,pricing,pricing_mrktreal_ath,checkonchain.com/btconchain/pricing/pricing_mrktreal_ath/pricing_mrktreal_ath_light.html,Market and Realised Cap
 btconchain,pricing,pricing_yearlycostbasis,checkonchain.com/btconchain/pricing/pricing_yearlycostbasis/pricing_yearlycostbasis_light.html,Yearly Volume Weighted Cost Basis
 btconchain,pricing,drawdown_infadj,checkonchain.com/btconchain/pricing/drawdown_infadj/drawdown_infadj_light.html,Inflation Adjusted Drawdown (2020 Dollars)
+btconchain,pricing,mvrv_pricingbands,checkonchain.com/btconchain/pricing/mvrv_pricingbands/mvrv_pricingbands_light.html,MVRV Pricing Bands
 btconchain,pricing,pricing_nvtprice,checkonchain.com/btconchain/pricing/pricing_nvtprice/pricing_nvtprice_light.html,NVT Price Models
 btconchain,pricing,pricing_costbasisoriginals,checkonchain.com/btconchain/pricing/pricing_costbasisoriginals/pricing_costbasisoriginals_light.html,Key Cost Basis Models Price Models
 btconchain,pricing,pricing_investortool,checkonchain.com/btconchain/pricing/pricing_investortool/pricing_investortool_light.html,Investor Tool
