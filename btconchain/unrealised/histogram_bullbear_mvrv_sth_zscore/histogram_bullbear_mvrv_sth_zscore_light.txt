@@ -1,1 +1,1 @@
-<b>STH-MVRV Ratio Z-Score Distribution<b>
+<b>STH-MVRV Ratio Z-Score Histogram<b>

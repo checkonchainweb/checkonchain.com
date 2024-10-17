@@ -1,1 +1,1 @@
-<b>MVRV Ratio Z-Score Distributions<b>
+<b>MVRV Ratio Z-Score Histogram<b>

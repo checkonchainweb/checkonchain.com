@@ -1,1 +1,1 @@
-<b>LTH-MVRV Ratio Z-Score Distribution<b>
+<b>LTH-MVRV Ratio Z-Score Histogram<b>
