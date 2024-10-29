@@ -71,6 +71,7 @@ btconchain,tradfi,tradfi_btc_vs_tradfi_rollingperformance365,checkonchain.com/bt
 btconchain,tradfi,tradfi_aussiehousepricesbtc_statista,checkonchain.com/btconchain/tradfi/tradfi_aussiehousepricesbtc_statista/tradfi_aussiehousepricesbtc_statista_light.html,Australian Average House Price in Bitcoin
 btconchain,tradfi,choppinessindex_^gspc,checkonchain.com/btconchain/tradfi/choppinessindex_^gspc/choppinessindex_^gspc_light.html,^GSPC Choppiness Index
 btconchain,tradfi,correlations_btc_7,checkonchain.com/btconchain/tradfi/correlations_btc_7/correlations_btc_7_light.html,Bitcoin Correlation to Tradfi Assets (7-day)
+btconchain,tradfi,keypriceindicies,checkonchain.com/btconchain/tradfi/keypriceindicies/keypriceindicies_light.html,"Bitcoin, Gold, SPX and the Dollar DXY"
 btconchain,tradfi,correlations_btc_90,checkonchain.com/btconchain/tradfi/correlations_btc_90/correlations_btc_90_light.html,Bitcoin Correlation to Tradfi Assets (90-day)
 btconchain,tradfi,correlations_btc_30,checkonchain.com/btconchain/tradfi/correlations_btc_30/correlations_btc_30_light.html,Bitcoin Correlation to Tradfi Assets (30-day)
 btconchain,tradfi,tradfi_btc_vs_mag7_volatility90,checkonchain.com/btconchain/tradfi/tradfi_btc_vs_mag7_volatility90/tradfi_btc_vs_mag7_volatility90_light.html,Bitcoin vs Mag-7: Realised Volatility (90-day)
