@@ -433,6 +433,7 @@ btconchain,etfs,etf_pricevolume,checkonchain.com/btconchain/etfs/etf_pricevolume
 btconchain,etfs,etf_flows_0,checkonchain.com/btconchain/etfs/etf_flows_0/etf_flows_0_light.html,Bitcoin ETF Flows [BTC]
 btconchain,etfs,etf_balance_1,checkonchain.com/btconchain/etfs/etf_balance_1/etf_balance_1_light.html,Bitcoin ETF AUM [USD]
 btconchain,etfs,etf_mvrv,checkonchain.com/btconchain/etfs/etf_mvrv/etf_mvrv_light.html,Bitcoin ETF Average Cost Basis and MVRV
+btconchain,etfs,etf_flowsvsprice,checkonchain.com/btconchain/etfs/etf_flowsvsprice/etf_flowsvsprice_light.html,ETF Flows vs Price Change
 btconchain,etfs,etf_volume_vsspot,checkonchain.com/btconchain/etfs/etf_volume_vsspot/etf_volume_vsspot_light.html,Bitcoin: Futures vs Spot vs ETF Trade Volume
 btconchain,etfs,etf_flows_eth_1,checkonchain.com/btconchain/etfs/etf_flows_eth_1/etf_flows_eth_1_light.html,Ethereum ETF Flows [USD]
 btconchain,etfs,etf_vs_cme_0,checkonchain.com/btconchain/etfs/etf_vs_cme_0/etf_vs_cme_0_light.html,Bitcoin ETF Flows vs CME Open Interest [BTC]
