@@ -95,7 +95,6 @@ btconchain,capitalrotation,capitalrotation_tradfi_pricedinbtc,checkonchain.com/b
 btconchain,pricing,price_y,checkonchain.com/btconchain/pricing/price_y/price_y_light.html,Bitcoin Yearly Price
 btconchain,pricing,histogram_mayermultiple,checkonchain.com/btconchain/pricing/histogram_mayermultiple/histogram_mayermultiple_light.html,Mayer Multiple Distribution
 btconchain,pricing,price_infadj_1,checkonchain.com/btconchain/pricing/price_infadj_1/price_infadj_1_light.html,Bitcoin Inflation Adjusted Price (2010 Dollars)
-btconchain,pricing,price_coinbasepremium,checkonchain.com/btconchain/pricing/price_coinbasepremium/price_coinbasepremium_light.html,Coinbase Premium
 btconchain,pricing,pricing_price_fibs_today,checkonchain.com/btconchain/pricing/pricing_price_fibs_today/pricing_price_fibs_today_light.html,Bitcoin Price & Fibonacci Retracements (Today)
 btconchain,pricing,price_m,checkonchain.com/btconchain/pricing/price_m/price_m_light.html,Bitcoin Monthly Price
 btconchain,pricing,price_infadj_2,checkonchain.com/btconchain/pricing/price_infadj_2/price_infadj_2_light.html,Bitcoin Inflation Adjusted Price (2020 Dollars)
@@ -110,7 +109,6 @@ btconchain,pricing,pricing_costbasisoriginals_oscillators,checkonchain.com/btcon
 btconchain,pricing,pricing_mrktreal_ath,checkonchain.com/btconchain/pricing/pricing_mrktreal_ath/pricing_mrktreal_ath_light.html,Market and Realised Cap
 btconchain,pricing,pricing_yearlycostbasis,checkonchain.com/btconchain/pricing/pricing_yearlycostbasis/pricing_yearlycostbasis_light.html,Yearly Volume Weighted Cost Basis
 btconchain,pricing,drawdown_infadj,checkonchain.com/btconchain/pricing/drawdown_infadj/drawdown_infadj_light.html,Inflation Adjusted Drawdown (2020 Dollars)
-btconchain,pricing,mvrv_pricingbands,checkonchain.com/btconchain/pricing/mvrv_pricingbands/mvrv_pricingbands_light.html,MVRV Pricing Bands
 btconchain,pricing,pricing_nvtprice,checkonchain.com/btconchain/pricing/pricing_nvtprice/pricing_nvtprice_light.html,NVT Price Models
 btconchain,pricing,pricing_costbasisoriginals,checkonchain.com/btconchain/pricing/pricing_costbasisoriginals/pricing_costbasisoriginals_light.html,Key Cost Basis Models Price Models
 btconchain,pricing,pricing_investortool,checkonchain.com/btconchain/pricing/pricing_investortool/pricing_investortool_light.html,Investor Tool
@@ -123,11 +121,9 @@ btconchain,pricing,pricing_price_fibs_2021_bull,checkonchain.com/btconchain/pric
 btconchain,pricing,pricing_price_fibs_2021_rally,checkonchain.com/btconchain/pricing/pricing_price_fibs_2021_rally/pricing_price_fibs_2021_rally_light.html,Bitcoin Price & Fibonacci Retracements (2021 Bull)
 btconchain,pricing,pricing_magiclines,checkonchain.com/btconchain/pricing/pricing_magiclines/pricing_magiclines_light.html,Bitcoin's Magic lines
 btconchain,pricing,pricing_mayermultiple_zscore,checkonchain.com/btconchain/pricing/pricing_mayermultiple_zscore/pricing_mayermultiple_zscore_light.html,The Mayer Multiple Z-score
-btconchain,pricing,price_ohlc,checkonchain.com/btconchain/pricing/price_ohlc/price_ohlc_light.html,Bitcoin Price
 btconchain,pricing,price_w,checkonchain.com/btconchain/pricing/price_w/price_w_light.html,Bitcoin Weekly Price
 btconchain,pricing,pricing_onchainoriginals,checkonchain.com/btconchain/pricing/pricing_onchainoriginals/pricing_onchainoriginals_light.html,Onchain Originals Price Models
 btconchain,pricing,pricing_price_fibs_2019,checkonchain.com/btconchain/pricing/pricing_price_fibs_2019/pricing_price_fibs_2019_light.html,Bitcoin Price & Fibonacci Retracements (2019)
-btconchain,pricing,marketcap_w,checkonchain.com/btconchain/pricing/marketcap_w/marketcap_w_light.html,Bitcoin Weekly Market Cap
 btconchain,pricing,price,checkonchain.com/btconchain/pricing/price/price_light.html,Bitcoin Price
 btconchain,unrealised,mvrv_zscore_ribbon,checkonchain.com/btconchain/unrealised/mvrv_zscore_ribbon/mvrv_zscore_ribbon_light.html,MVRV Z-Score Ribbon
 btconchain,unrealised,histogram_mvrv,checkonchain.com/btconchain/unrealised/histogram_mvrv/histogram_mvrv_light.html,MVRV Distributions
@@ -174,7 +170,6 @@ btconchain,unrealised,aviv_gradient_360,checkonchain.com/btconchain/unrealised/a
 btconchain,unrealised,histogram_bullbear_mvrv_sth_zscore,checkonchain.com/btconchain/unrealised/histogram_bullbear_mvrv_sth_zscore/histogram_bullbear_mvrv_sth_zscore_light.html,STH-MVRV Ratio Z-Score Histogram
 btconchain,unrealised,mvrv_sth,checkonchain.com/btconchain/unrealised/mvrv_sth/mvrv_sth_light.html,Short-Term Holder MVRV Ratio
 btconchain,unrealised,topheavy_supplyinloss_sth,checkonchain.com/btconchain/unrealised/topheavy_supplyinloss_sth/topheavy_supplyinloss_sth_light.html,Top Heavy Markets: Short-Term Holder Supply in Loss
-btconchain,unrealised,supply_profitloss_ratio_lth,checkonchain.com/btconchain/unrealised/supply_profitloss_ratio_lth/supply_profitloss_ratio_lth_light.html,Long-Term Holder Supply in Profit/Loss Ratio
 btconchain,unrealised,aviv_gradient_all,checkonchain.com/btconchain/unrealised/aviv_gradient_all/aviv_gradient_all_light.html,AVIV Gradient Oscillator Signal
 btconchain,unrealised,topheavy_supplyinloss_sth_1,checkonchain.com/btconchain/unrealised/topheavy_supplyinloss_sth_1/topheavy_supplyinloss_sth_1_light.html,Top Heavy Markets: Relative Short-Term Holder Supply in Loss (%)
 btconchain,unrealised,pctunrealisedprofit_sth,checkonchain.com/btconchain/unrealised/pctunrealisedprofit_sth/pctunrealisedprofit_sth_light.html,Short-Term Holder Percent Unrealised Profit
@@ -191,60 +186,31 @@ btconchain,unrealised,mvrv_gradient_all,checkonchain.com/btconchain/unrealised/m
 btconchain,unrealised,mvrv_all_zscore,checkonchain.com/btconchain/unrealised/mvrv_all_zscore/mvrv_all_zscore_light.html,The MVRV Ratio Z-Score
 btconchain,unrealised,mvrv_gradient_90,checkonchain.com/btconchain/unrealised/mvrv_gradient_90/mvrv_gradient_90_light.html,MVRV Gradient Oscillator 90-day
 btconchain,unrealised,mvrv_lth_zscore,checkonchain.com/btconchain/unrealised/mvrv_lth_zscore/mvrv_lth_zscore_light.html,Long-Term Holder MVRV Z-Score
-btconchain,mining,mining_hashribbons,checkonchain.com/btconchain/mining/mining_hashribbons/mining_hashribbons_light.html,Hash Ribbons
-btconchain,mining,mining_difficultyadjustment,checkonchain.com/btconchain/mining/mining_difficultyadjustment/mining_difficultyadjustment_light.html,The Difficulty Adjustment
 btconchain,mining,difficultyadjustment,checkonchain.com/btconchain/mining/difficultyadjustment/difficultyadjustment_light.html,The Difficulty Adjustment
 btconchain,mining,minerbalance,checkonchain.com/btconchain/mining/minerbalance/minerbalance_light.html,Miner Balances
 btconchain,mining,difficultyperissuance,checkonchain.com/btconchain/mining/difficultyperissuance/difficultyperissuance_light.html,Difficulty per Issuance Model (Estimated Avg Production Price)
-btconchain,mining,mining_minerprofitabledays,checkonchain.com/btconchain/mining/mining_minerprofitabledays/mining_minerprofitabledays_light.html,Estimated Number of Profitable Days for Miners
-btconchain,mining,mining_difficultyperissuance,checkonchain.com/btconchain/mining/mining_difficultyperissuance/mining_difficultyperissuance_light.html,Difficulty per Issuance Model (Estimated Avg Cost of Production)
 btconchain,mining,minerprofitabledays,checkonchain.com/btconchain/mining/minerprofitabledays/minerprofitabledays_light.html,Estimated Number of Profitable Days for Miners
-btconchain,mining,mining_hashprice,checkonchain.com/btconchain/mining/mining_hashprice/mining_hashprice_light.html,Hash Price and Miner Revenue
-btconchain,mining,mining_minerbalance,checkonchain.com/btconchain/mining/mining_minerbalance/mining_minerbalance_light.html,Miner Balances
 btconchain,mining,mining_thermocap,checkonchain.com/btconchain/mining/mining_thermocap/mining_thermocap_light.html,Bitcoin Thermocap and Monetary Premium over Production Cost
 btconchain,mining,hashribbons,checkonchain.com/btconchain/mining/hashribbons/hashribbons_light.html,Hash Ribbons
-btconchain,mining,mining_puellmultiple,checkonchain.com/btconchain/mining/mining_puellmultiple/mining_puellmultiple_light.html,The Puell Multiple
-btconchain,mining,mining_hashrate_change,checkonchain.com/btconchain/mining/mining_hashrate_change/mining_hashrate_change_light.html,Bitcoin HashRate Change
 btconchain,mining,hashrate_change,checkonchain.com/btconchain/mining/hashrate_change/hashrate_change_light.html,Hashrate Net Position Change (30-day)
-btconchain,mining,mining_securitybudgetstudy,checkonchain.com/btconchain/mining/mining_securitybudgetstudy/mining_securitybudgetstudy_light.html,Analysis of The Bitcoin Security Budget
 btconchain,mining,miner_revenue,checkonchain.com/btconchain/mining/miner_revenue/miner_revenue_light.html,Miner Revenue
-btconchain,mining,mining_revenue,checkonchain.com/btconchain/mining/mining_revenue/mining_revenue_light.html,Miner Revenue
 btconchain,mining,revenuevscost,checkonchain.com/btconchain/mining/revenuevscost/revenuevscost_light.html,Miner Revenue vs Estimated Production Expense
-btconchain,mining,mining_revenuevscost,checkonchain.com/btconchain/mining/mining_revenuevscost/mining_revenuevscost_light.html,Miner Revenue vs Estimated Cost of Production
-btconchain,mining,mining_difficultyregression,checkonchain.com/btconchain/mining/mining_difficultyregression/mining_difficultyregression_light.html,Difficulty Regression Model (Estimated Avg Cost of Production)
-btconchain,mining,mining_miningpulse,checkonchain.com/btconchain/mining/mining_miningpulse/mining_miningpulse_light.html,The Mining Pulse
 btconchain,mining,miningpulse,checkonchain.com/btconchain/mining/miningpulse/miningpulse_light.html,The Mining Pulse
 btconchain,mining,puellmultiple,checkonchain.com/btconchain/mining/puellmultiple/puellmultiple_light.html,The Puell Multiple
 btconchain,mining,hashprice,checkonchain.com/btconchain/mining/hashprice/hashprice_light.html,Hash Price and Miner Revenue
 btconchain,mining,difficultyregression,checkonchain.com/btconchain/mining/difficultyregression/difficultyregression_light.html,Difficulty Regression Model (Estimated Avg Production Price)
-btconchain,lifespan,lifespan_binarycdd_zscoresth,checkonchain.com/btconchain/lifespan/lifespan_binarycdd_zscoresth/lifespan_binarycdd_zscoresth_light.html,Short-Term Holder Binary Coin-days Destroyed Z-Score
 btconchain,lifespan,coinday_nvtrvtlth,checkonchain.com/btconchain/lifespan/coinday_nvtrvtlth/coinday_nvtrvtlth_light.html,Bitcoin Long-Term Holder Coinday NVT and RVT Ratio
 btconchain,lifespan,coindays_pnl_0,checkonchain.com/btconchain/lifespan/coindays_pnl_0/coindays_pnl_0_light.html,Coindays in Profit/Loss
 btconchain,lifespan,coindays_avgage_pnl,checkonchain.com/btconchain/lifespan/coindays_avgage_pnl/coindays_avgage_pnl_light.html,Average Coin Age in Profit/Loss
-btconchain,lifespan,lifespan_cdd90_lthsth,checkonchain.com/btconchain/lifespan/lifespan_cdd90_lthsth/lifespan_cdd90_lthsth_light.html,Bitcoin Coin-days Destroyed 90-day Sum by Cohort
 btconchain,lifespan,cdd,checkonchain.com/btconchain/lifespan/cdd/cdd_light.html,Bitcoin Coin-days Destroyed
-btconchain,lifespan,lifespan_coinday_nvtrvtsth,checkonchain.com/btconchain/lifespan/lifespan_coinday_nvtrvtsth/lifespan_coinday_nvtrvtsth_light.html,Bitcoin Short-Term Holder Coinday NVT and RVT Ratio
-btconchain,lifespan,lifespan_coindaysdestroyed_bycohort_0,checkonchain.com/btconchain/lifespan/lifespan_coindaysdestroyed_bycohort_0/lifespan_coindaysdestroyed_bycohort_0_light.html,Bitcoin Coindays Destroyed (30-sum)
 btconchain,lifespan,cdd90_lthsth,checkonchain.com/btconchain/lifespan/cdd90_lthsth/cdd90_lthsth_light.html,Bitcoin Coin-days Destroyed 90-day Sum by Cohort
-btconchain,lifespan,lifespan_binarycdd,checkonchain.com/btconchain/lifespan/lifespan_binarycdd/lifespan_binarycdd_light.html,Binary Coin-days Destroyed
 btconchain,lifespan,binarycdd_zscoresth,checkonchain.com/btconchain/lifespan/binarycdd_zscoresth/binarycdd_zscoresth_light.html,Short-Term Holder Binary Coin-days Destroyed Z-Score
 btconchain,lifespan,binarycdd_zscorelth,checkonchain.com/btconchain/lifespan/binarycdd_zscorelth/binarycdd_zscorelth_light.html,Long-Term Holder Binary Coin-days Destroyed Z-Score
-btconchain,lifespan,lifespan_coinday_nvtrvt,checkonchain.com/btconchain/lifespan/lifespan_coinday_nvtrvt/lifespan_coinday_nvtrvt_light.html,Bitcoin Coinday NVT and RVT Ratio
-btconchain,lifespan,lifespan_coindays_averageage_inprofitloss,checkonchain.com/btconchain/lifespan/lifespan_coindays_averageage_inprofitloss/lifespan_coindays_averageage_inprofitloss_light.html,Average Coin Age in Profit/Loss
 btconchain,lifespan,coinday_nvtrvt,checkonchain.com/btconchain/lifespan/coinday_nvtrvt/coinday_nvtrvt_light.html,Bitcoin Coinday NVT and RVT Ratio
-btconchain,lifespan,lifespan_coinday_nvtrvtlth,checkonchain.com/btconchain/lifespan/lifespan_coinday_nvtrvtlth/lifespan_coinday_nvtrvtlth_light.html,Bitcoin Long-Term Holder Coinday NVT and RVT Ratio
 btconchain,lifespan,coindays_pnl_1,checkonchain.com/btconchain/lifespan/coindays_pnl_1/coindays_pnl_1_light.html,Relative Coindays in Profit/Loss
-btconchain,lifespan,lifespan_cdd,checkonchain.com/btconchain/lifespan/lifespan_cdd/lifespan_cdd_light.html,Bitcoin Coin-days Destroyed
-btconchain,lifespan,lifespan_vddmultiple,checkonchain.com/btconchain/lifespan/lifespan_vddmultiple/lifespan_vddmultiple_light.html,Bitcoin Value Days Destroyed Multiple
-btconchain,lifespan,lifespan_coindays_inprofitloss_1,checkonchain.com/btconchain/lifespan/lifespan_coindays_inprofitloss_1/lifespan_coindays_inprofitloss_1_light.html,Relative Coindays in Profit/Loss
-btconchain,lifespan,lifespan_binarycdd_zscore,checkonchain.com/btconchain/lifespan/lifespan_binarycdd_zscore/lifespan_binarycdd_zscore_light.html,Binary Coin-days Destroyed Z-Score
-btconchain,lifespan,lifespan_binarycdd_zscorelth,checkonchain.com/btconchain/lifespan/lifespan_binarycdd_zscorelth/lifespan_binarycdd_zscorelth_light.html,Long-Term Holder Binary Coin-days Destroyed Z-Score
-btconchain,lifespan,lifespan_coindaysdestroyed_bycohort_1,checkonchain.com/btconchain/lifespan/lifespan_coindaysdestroyed_bycohort_1/lifespan_coindaysdestroyed_bycohort_1_light.html,Bitcoin Coindays Destroyed (30-sum)
 btconchain,lifespan,reserverisk,checkonchain.com/btconchain/lifespan/reserverisk/reserverisk_light.html,Bitcoin Reserve Risk
 btconchain,lifespan,coinday_nvtrvtsth,checkonchain.com/btconchain/lifespan/coinday_nvtrvtsth/coinday_nvtrvtsth_light.html,Bitcoin Short-Term Holder Coinday NVT and RVT Ratio
-btconchain,lifespan,lifespan_coindays_inprofitloss_0,checkonchain.com/btconchain/lifespan/lifespan_coindays_inprofitloss_0/lifespan_coindays_inprofitloss_0_light.html,Coindays in Profit/Loss
 btconchain,lifespan,binarycdd,checkonchain.com/btconchain/lifespan/binarycdd/binarycdd_light.html,Binary Coin-days Destroyed
-btconchain,lifespan,lifespan_reserverisk,checkonchain.com/btconchain/lifespan/lifespan_reserverisk/lifespan_reserverisk_light.html,Bitcoin Reserve Risk
 btconchain,lifespan,vddmultiple,checkonchain.com/btconchain/lifespan/vddmultiple/vddmultiple_light.html,Bitcoin Value Days Destroyed Multiple
 btconchain,lifespan,cdd_bycohort_0,checkonchain.com/btconchain/lifespan/cdd_bycohort_0/cdd_bycohort_0_light.html,Bitcoin Coindays Destroyed (30-sum)
 btconchain,lifespan,binarycdd_zscore,checkonchain.com/btconchain/lifespan/binarycdd_zscore/binarycdd_zscore_light.html,Binary Coin-days Destroyed Z-Score
@@ -299,7 +265,6 @@ btconchain,realised,sellsideriskratio_net,checkonchain.com/btconchain/realised/s
 btconchain,realised,realisedpnl_bycohort_0,checkonchain.com/btconchain/realised/realisedpnl_bycohort_0/realisedpnl_bycohort_0_light.html,Realised Loss by Cohort [BTC]
 btconchain,realised,signal_realisedpnl_momentum_sth,checkonchain.com/btconchain/realised/signal_realisedpnl_momentum_sth/signal_realisedpnl_momentum_sth_light.html,Short-Term Holder Realised Profit/Loss Momentum
 btconchain,realised,realised_drawdowns_bull_realisedloss,checkonchain.com/btconchain/realised/realised_drawdowns_bull_realisedloss/realised_drawdowns_bull_realisedloss_light.html,Realised Profit During Bull Markets
-btconchain,realised,sellsideriskratio_all_impliedvol,checkonchain.com/btconchain/realised/sellsideriskratio_all_impliedvol/sellsideriskratio_all_impliedvol_light.html, Sell-side Risk Ratio vs Options Implied Volatility
 btconchain,realised,realisedpnl_ratio_all,checkonchain.com/btconchain/realised/realisedpnl_ratio_all/realisedpnl_ratio_all_light.html, Realised Profit/Loss Ratio
 btconchain,realised,netrealisedpnl_momentum_0,checkonchain.com/btconchain/realised/netrealisedpnl_momentum_0/netrealisedpnl_momentum_0_light.html,Net Realised Profit/Loss Momentum
 btconchain,realised,netrealisedpnl_usd,checkonchain.com/btconchain/realised/netrealisedpnl_usd/netrealisedpnl_usd_light.html,Net Realised Profit/Loss [USD]
@@ -392,11 +357,9 @@ btconchain,derivatives,derivatives_options_volume_byexchange_0,checkonchain.com/
 btconchain,derivatives,options_strike_oi_2,checkonchain.com/btconchain/derivatives/options_strike_oi_2/options_strike_oi_2_light.html,Options Open Interest by Expiration (March 2025)
 btconchain,derivatives,derivatives_futures_fundingrate,checkonchain.com/btconchain/derivatives/derivatives_futures_fundingrate/derivatives_futures_fundingrate_light.html,Bitcoin Perpetual Futures Funding Rates
 btconchain,derivatives,options_strike_oi_1,checkonchain.com/btconchain/derivatives/options_strike_oi_1/options_strike_oi_1_light.html,Options Open Interest by Expiration (January 2025)
-btconchain,derivatives,derivatives_options_atmimpliedvol,checkonchain.com/btconchain/derivatives/derivatives_options_atmimpliedvol/derivatives_options_atmimpliedvol_light.html,Options At-the-Money Implied Volatility
 btconchain,derivatives,derivatives_options_oi_byexchange_1,checkonchain.com/btconchain/derivatives/derivatives_options_oi_byexchange_1/derivatives_options_oi_byexchange_1_light.html,Bitcoin Options Open Interest [BTC]
 btconchain,derivatives,derivatives_btc_longliqdominance,checkonchain.com/btconchain/derivatives/derivatives_btc_longliqdominance/derivatives_btc_longliqdominance_light.html,Bitcoin: Long Liquidation Dominance
 btconchain,derivatives,derivatives_leverageratio_1,checkonchain.com/btconchain/derivatives/derivatives_leverageratio_1/derivatives_leverageratio_1_light.html,Derivatives Leverage Ratio vs Market Cap
-btconchain,derivatives,derivatives_leverageratio1,checkonchain.com/btconchain/derivatives/derivatives_leverageratio1/derivatives_leverageratio1_light.html,Derivatives Leverage Ratio vs Market Cap
 btconchain,derivatives,derivatives_spotvolume_cvd_0,checkonchain.com/btconchain/derivatives/derivatives_spotvolume_cvd_0/derivatives_spotvolume_cvd_0_light.html,Bitcoin Spot Cumulative Volume Delta [USD]
 btconchain,derivatives,derivatives_spot_volume,checkonchain.com/btconchain/derivatives/derivatives_spot_volume/derivatives_spot_volume_light.html,Bitcoin Spot Volume [USD]
 btconchain,derivatives,options_25deltaskew,checkonchain.com/btconchain/derivatives/options_25deltaskew/options_25deltaskew_light.html,Options 25-Delta Skew
@@ -404,7 +367,6 @@ btconchain,derivatives,derivatives_futures_oi_byexchange_0,checkonchain.com/btco
 btconchain,derivatives,derivatives_leverageratio_0,checkonchain.com/btconchain/derivatives/derivatives_leverageratio_0/derivatives_leverageratio_0_light.html,Derivatives Leverage Ratio vs Market Cap
 btconchain,derivatives,derivatives_futuresoi_1daychange,checkonchain.com/btconchain/derivatives/derivatives_futuresoi_1daychange/derivatives_futuresoi_1daychange_light.html,Bitcoin Futures Open Interest 7-day Change
 btconchain,derivatives,derivatives_termstructure_0,checkonchain.com/btconchain/derivatives/derivatives_termstructure_0/derivatives_termstructure_0_light.html,Bitcoin Futures Term Structure Price
-btconchain,derivatives,derivatives_leverageratio0,checkonchain.com/btconchain/derivatives/derivatives_leverageratio0/derivatives_leverageratio0_light.html,Derivatives Leverage Ratio vs Market Cap
 btconchain,derivatives,options_strike_oi_3,checkonchain.com/btconchain/derivatives/options_strike_oi_3/options_strike_oi_3_light.html,Options Open Interest by Expiration (June 2025)
 btconchain,derivatives,derivatives_spotvolume_cvd_1,checkonchain.com/btconchain/derivatives/derivatives_spotvolume_cvd_1/derivatives_spotvolume_cvd_1_light.html,Bitcoin Spot Cumulative Volume Delta [BTC]
 btconchain,derivatives,derivatives_futures_oi_byexchange_2,checkonchain.com/btconchain/derivatives/derivatives_futures_oi_byexchange_2/derivatives_futures_oi_byexchange_2_light.html,Bitcoin Futures Open Interest [Dominance (%)]
@@ -414,10 +376,8 @@ btconchain,derivatives,options_strike_oi_4,checkonchain.com/btconchain/derivativ
 btconchain,derivatives,derivatives_futuresoi_vs_price_scatter,checkonchain.com/btconchain/derivatives/derivatives_futuresoi_vs_price_scatter/derivatives_futuresoi_vs_price_scatter_light.html,Bitcoin Futures OI vs Price Change (7-day)
 btconchain,derivatives,options_volatilitysmile,checkonchain.com/btconchain/derivatives/options_volatilitysmile/options_volatilitysmile_light.html,Options Implied Volatility Smile
 btconchain,derivatives,derivatives_futuresvolume,checkonchain.com/btconchain/derivatives/derivatives_futuresvolume/derivatives_futuresvolume_light.html,Bitcoin Futures Trade Volume [USD]
-btconchain,derivatives,derivatives_futures_oi_1,checkonchain.com/btconchain/derivatives/derivatives_futures_oi_1/derivatives_futures_oi_1_light.html,Bitcoin Futures Open Interest
 btconchain,derivatives,derivatives_btc_liquidations,checkonchain.com/btconchain/derivatives/derivatives_btc_liquidations/derivatives_btc_liquidations_light.html,Bitcoin: Futures Liquidation Volumes
 btconchain,derivatives,derivatives_spotvolume_cvd_byexchange,checkonchain.com/btconchain/derivatives/derivatives_spotvolume_cvd_byexchange/derivatives_spotvolume_cvd_byexchange_light.html,Bitcoin Spot Cumulative Volume Delta by Exchange
-btconchain,derivatives,derivatives_futures_oi_0,checkonchain.com/btconchain/derivatives/derivatives_futures_oi_0/derivatives_futures_oi_0_light.html,Bitcoin Futures Open Interest
 btconchain,derivatives,options_strike_oi_0,checkonchain.com/btconchain/derivatives/options_strike_oi_0/options_strike_oi_0_light.html,Options Open Interest by Expiration (November 2024)
 btconchain,derivatives,derivatives_futuresvolume_byexchange,checkonchain.com/btconchain/derivatives/derivatives_futuresvolume_byexchange/derivatives_futuresvolume_byexchange_light.html,Bitcoin Futures Volume [USD]
 btconchain,derivatives,derivatives_termstructure_1,checkonchain.com/btconchain/derivatives/derivatives_termstructure_1/derivatives_termstructure_1_light.html,Bitcoin Futures Term Structure Premium (Annualised)
@@ -436,7 +396,6 @@ btconchain,etfs,etf_pricevolume,checkonchain.com/btconchain/etfs/etf_pricevolume
 btconchain,etfs,etf_flows_0,checkonchain.com/btconchain/etfs/etf_flows_0/etf_flows_0_light.html,Bitcoin ETF Flows [BTC]
 btconchain,etfs,etf_balance_1,checkonchain.com/btconchain/etfs/etf_balance_1/etf_balance_1_light.html,Bitcoin ETF AUM [USD]
 btconchain,etfs,etf_mvrv,checkonchain.com/btconchain/etfs/etf_mvrv/etf_mvrv_light.html,Bitcoin ETF Average Cost Basis and MVRV
-btconchain,etfs,etf_flowsvsprice,checkonchain.com/btconchain/etfs/etf_flowsvsprice/etf_flowsvsprice_light.html,ETF Flows vs Price Change
 btconchain,etfs,etf_volume_vsspot,checkonchain.com/btconchain/etfs/etf_volume_vsspot/etf_volume_vsspot_light.html,Bitcoin: Futures vs Spot vs ETF Trade Volume
 btconchain,etfs,etf_flows_eth_1,checkonchain.com/btconchain/etfs/etf_flows_eth_1/etf_flows_eth_1_light.html,Ethereum ETF Flows [USD]
 btconchain,etfs,etf_vs_cme_0,checkonchain.com/btconchain/etfs/etf_vs_cme_0/etf_vs_cme_0_light.html,Bitcoin ETF Flows vs CME Open Interest [BTC]
