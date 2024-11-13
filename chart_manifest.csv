@@ -124,6 +124,7 @@ btconchain,pricing,pricing_mayermultiple_zscore,checkonchain.com/btconchain/pric
 btconchain,pricing,price_w,checkonchain.com/btconchain/pricing/price_w/price_w_light.html,Bitcoin Weekly Price
 btconchain,pricing,pricing_onchainoriginals,checkonchain.com/btconchain/pricing/pricing_onchainoriginals/pricing_onchainoriginals_light.html,Onchain Originals Price Models
 btconchain,pricing,pricing_price_fibs_2019,checkonchain.com/btconchain/pricing/pricing_price_fibs_2019/pricing_price_fibs_2019_light.html,Bitcoin Price & Fibonacci Retracements (2019)
+btconchain,pricing,marketcap_w,checkonchain.com/btconchain/pricing/marketcap_w/marketcap_w_light.html,Bitcoin Weekly Market Cap
 btconchain,pricing,price,checkonchain.com/btconchain/pricing/price/price_light.html,Bitcoin Price
 btconchain,unrealised,mvrv_zscore_ribbon,checkonchain.com/btconchain/unrealised/mvrv_zscore_ribbon/mvrv_zscore_ribbon_light.html,MVRV Z-Score Ribbon
 btconchain,unrealised,histogram_mvrv,checkonchain.com/btconchain/unrealised/histogram_mvrv/histogram_mvrv_light.html,MVRV Distributions
