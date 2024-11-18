@@ -119,6 +119,7 @@ btconchain,pricing,pricing_price_fibs_2021_22,checkonchain.com/btconchain/pricin
 btconchain,pricing,pricing_price_fibs_2023_24,checkonchain.com/btconchain/pricing/pricing_price_fibs_2023_24/pricing_price_fibs_2023_24_light.html,Bitcoin Price & Fibonacci Retracements (2023-24)
 btconchain,pricing,pricing_price_fibs_2021_bull,checkonchain.com/btconchain/pricing/pricing_price_fibs_2021_bull/pricing_price_fibs_2021_bull_light.html,Bitcoin Price & Fibonacci Retracements (March 2020)
 btconchain,pricing,pricing_price_fibs_2021_rally,checkonchain.com/btconchain/pricing/pricing_price_fibs_2021_rally/pricing_price_fibs_2021_rally_light.html,Bitcoin Price & Fibonacci Retracements (2021 Bull)
+btconchain,pricing,pricing_price_fibs_2024_chop,checkonchain.com/btconchain/pricing/pricing_price_fibs_2024_chop/pricing_price_fibs_2024_chop_light.html,Bitcoin Price & Fibonacci Retracements (2024 Chop)
 btconchain,pricing,pricing_magiclines,checkonchain.com/btconchain/pricing/pricing_magiclines/pricing_magiclines_light.html,Bitcoin's Magic lines
 btconchain,pricing,pricing_mayermultiple_zscore,checkonchain.com/btconchain/pricing/pricing_mayermultiple_zscore/pricing_mayermultiple_zscore_light.html,The Mayer Multiple Z-score
 btconchain,pricing,price_w,checkonchain.com/btconchain/pricing/price_w/price_w_light.html,Bitcoin Weekly Price
@@ -266,6 +267,7 @@ btconchain,realised,sellsideriskratio_net,checkonchain.com/btconchain/realised/s
 btconchain,realised,realisedpnl_bycohort_0,checkonchain.com/btconchain/realised/realisedpnl_bycohort_0/realisedpnl_bycohort_0_light.html,Realised Loss by Cohort [BTC]
 btconchain,realised,signal_realisedpnl_momentum_sth,checkonchain.com/btconchain/realised/signal_realisedpnl_momentum_sth/signal_realisedpnl_momentum_sth_light.html,Short-Term Holder Realised Profit/Loss Momentum
 btconchain,realised,realised_drawdowns_bull_realisedloss,checkonchain.com/btconchain/realised/realised_drawdowns_bull_realisedloss/realised_drawdowns_bull_realisedloss_light.html,Realised Profit During Bull Markets
+btconchain,realised,sellsideriskratio_all_impliedvol,checkonchain.com/btconchain/realised/sellsideriskratio_all_impliedvol/sellsideriskratio_all_impliedvol_light.html, Sell-side Risk Ratio vs Options Implied Volatility
 btconchain,realised,realisedpnl_ratio_all,checkonchain.com/btconchain/realised/realisedpnl_ratio_all/realisedpnl_ratio_all_light.html, Realised Profit/Loss Ratio
 btconchain,realised,netrealisedpnl_momentum_0,checkonchain.com/btconchain/realised/netrealisedpnl_momentum_0/netrealisedpnl_momentum_0_light.html,Net Realised Profit/Loss Momentum
 btconchain,realised,netrealisedpnl_usd,checkonchain.com/btconchain/realised/netrealisedpnl_usd/netrealisedpnl_usd_light.html,Net Realised Profit/Loss [USD]
